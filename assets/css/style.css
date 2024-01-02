@@ -599,6 +599,196 @@ input:focus {
 .create-account .creat-form input::placeholder {
     font-size: 14px;
 }
+.contact-form .tab-pane::-webkit-scrollbar-thumb {
+    background: #aba9a3;
+    border-radius: 5px;
+}
+.contact-form .tab-pane::-webkit-scrollbar-track {
+    border-radius: 5px;
+}
+.contact-form .tab-pane::-webkit-scrollbar {
+    width: 5px;
+    height: 50px;
+}
+.faqs-content {
+    padding: 4rem 0;
+}
+.inner-banner-funds {
+    background-image: url(../../assets/image/inner-banner-fund.png);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.inner-banner-funds h2 {
+    color: #FFBD59;
+    font-size: 36px;
+}
+.inner-banner-funds p {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.inner-banner-funds h4 {
+    color: #FFBD59;
+    font-size: 18px;
+    font-style: italic;
+}
+.inner-banner-funds .banner-btn a {
+    padding: 9px 25px;
+    background-color: #FFBD59;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+.inner-banner-funds .banner-profile h5 {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    border-bottom: 1px solid #ffffffb8;
+}
+.inner-banner-funds .banner-profile p {
+    font-size: 17px;
+}
+.inner-banner-funds .profile img {
+    width: 80px;
+    margin-right: 15px;
+}
+.inner-banner-funds .banner-profile {
+    background-color: #C18948;
+    padding: 10px;
+    border-radius: 10px;
+    width: 85%;
+    margin: auto;
+}
+.your-investment h2.invest-fund {
+    font-size: 36px;
+    position: relative;
+    margin-bottom: 24px;
+}
+.your-investment h3 {
+    font-size: 23px;
+    margin-bottom: 2px;
+}
+.your-investment h2.invest-fund:after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 302px;
+    border: 1px solid #C18948;
+}
+.your-investment .structure img {
+    margin-bottom: 28px;
+    height: 325px;
+    width: auto;
+}
+.your-investment ul.key-feature {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    margin-top: 10px;
+}
+.your-investment {
+    background-color: #FFF3E4;
+    padding: 4rem 0;
+}
+.your-investment .historical img {
+    width: 100%;
+    height: 100%;
+}
+h2.inner-heading {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Alegreya sans-serif;
+    margin-bottom: 26px;
+}
+.historical {
+    background-color: #E8C69F;
+    padding: 20px;
+    border-radius: 15px;
+}
+.your-investment .hist-card {
+    background-color: #E8C69F;
+    padding: 20px;
+    border-radius: 15px;
+    height: 100%;
+}
+.banifit-tabs ul {
+    list-style: auto;
+    padding: 11px 21px;
+}
+.banifit-tabs .nav-tabs button {
+    width: 135px;
+    font-family: Alegreya sans-serif;
+    font-weight: 600;
+}
+.banifit-tabs button.benefits {
+    border-top-right-radius: 0;
+    border-top-left-radius: 40px;
+    background-color: #C18948 !important;
+    border-bottom: 0;
+    color: #000;
+    border-top: 1px;
+    margin-right: 2px;
+}
+.banifit-tabs button.risks {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 40px;
+    background-color: #333B52 !important;
+    color: #fff !important;
+    border: none;
+    margin-left: 2px;
+}
+.banifit-tabs .tab-content .tab-pane.benefits {
+    background-color: #C18948;
+    padding: 20px;
+    border-radius: 15px;
+    height: 100%;
+}
+.banifit-tabs .tab-content .tab-pane.risks {
+    background-color: #333B52;
+    padding: 20px;
+    border-radius: 15px;
+    height: 100%;
+    color: #fff;
+}
+.banifit-tabs .tab-content li {
+    padding-bottom: 15px;
+}
+.categories-card .cate-card h4 {
+    margin-bottom: 18px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.cate-card img {
+    width: 130px;
+}
+.cate-card .btn a {
+    background-color: #FFBD59;
+    color: #000;
+    padding: 11px 24px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+.cate-card {
+    background-color: #E8C69F;
+    text-align: center;
+    padding: 44px 20px;
+    border-radius: 18px;
+}
+.categories-card {
+    background-color: #C18948;
+    padding: 26px;
+    border-radius: 10px;
+}
+.categories h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 14px;
+}
+
 
 /* css added by abhishek */
 
