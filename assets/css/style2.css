@@ -1,0 +1,117 @@
+.works-section .works-section-inner h3 {
+    margin: 0;
+    display: flex;
+    align-items: end;
+    line-height: 29px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.works-section-inner img {
+    margin-right: 15px;
+    width: 110px;
+    height: 110px;
+}
+.works-section-inner {
+    width: 90%;
+    margin: 0 auto 50px;
+}
+.dividers {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.divider {
+    border: 1.5px solid #C18948;
+    height: 100%;
+    width: 0;
+}
+.divider:before {
+    left: 47%;
+    position: absolute;
+    content: '';
+    border: 3px solid #C18948;
+    top: -12px;
+    width: 0;
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
+.works-section-inner hr {
+    margin: 20px 0;
+    color: #C18948;
+    border: 1px solid;
+    opacity: 1;
+}
+.works-section-inner .d-flex.work-images {
+    align-items: center;
+}
+.works-section-inner .work-content, .works-section-inner .work-images {
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+.works-section-inner ul {
+    margin: 0;
+}
+.faq-ctn2 h2 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: system-ui, 'Open sans';
+}
+.faq-ctn2 p {
+    text-align: left;
+    font-size: 17px;
+}
+.blue-card {
+    color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    background: #103166;
+}
+.blue-card .cdr-img {
+    background: #c1bdbd2e;
+}
+.cdr-img img {
+    height: 35px;
+    width: 40px;
+}
+.blue-card h2 {
+    font-size: 21px;
+    text-align: center;
+    margin: 10px 0;
+}
+.accordion-item {
+    margin-bottom: 20px;
+    border: 0;
+    border-bottom: 1px solid #d0cbcb;
+}
+.accordion-button:not(.collapsed) {
+    padding-bottom: 0;
+    box-shadow: none;
+    background: no-repeat;
+    color: #000;
+    font-size: 17px;
+    font-weight: bold;
+}
+.accordion-button{
+    /* padding-bottom: 0; */
+    box-shadow: none;
+    background: no-repeat;
+    color: #000;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+button.accordion-button.collapsed:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.faqs-content {
+    padding: 4rem 0;
+    width: 65%;
+    margin: 0 auto;
+}
