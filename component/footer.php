@@ -1,17 +1,15 @@
-
 <div class="main-footer">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-ms-12">
                 <h2>Quick Links</h2>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#"></a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Home it Works</a></li>
+                    <li><a href="how-it-works.php">Home it Works</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                    <li><a href="#">Why Jericho?</a></li>
+                    <li><a href="why-jericho.php">Why Jericho?</a></li>
                     <li><a href="terms-and-condition.php">Terms & Conditions</a></li>
                     <li><a href="#">Our Insights</a></li>
                     <li><a href="contact.php">Contact Us</a></li>

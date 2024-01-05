@@ -11,7 +11,8 @@
                         <div class="wealth mb-4">
                             <h2 class="fell-font mb-4">Redefining wealth <br> with Alternatives</h2>
                             <ul class="mb-4">
-                                <li>Access exotic assets like real estate, private credit, and <br> venture capital.</li>
+                                <li>Access exotic assets like real estate, private credit, and <br> venture capital.
+                                </li>
                                 <li>Diversify and Enhance Your Risk Adjusted Return</li>
                                 <li>Find Potential Liquidity for Illiquid Alternative Assets.</li>
                             </ul>
@@ -28,7 +29,8 @@
                                             <h6 class="mb-0">For Investors</h6>
                                         </div>
                                         <p class="title mb-2">HNIs and Family Offices</p>
-                                        <p class="enhance-text">Enhance Your Portfolio with Diverse Alternative Assets for Superior
+                                        <p class="enhance-text">Enhance Your Portfolio with Diverse Alternative Assets
+                                            for Superior
                                             Risk-Adjusted Returns</p>
                                     </div>
                                 </a>
@@ -144,11 +146,19 @@
             <div class="col-md-6 col-sm-12">
                 <img src="../assets/image/alter-graph.png">
                 <div class="dropdown-tooltip">
-                    <a class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
                         <img src="../assets/image/tooptips-icon.png">
                     </a>About the Chart
                     <div class="dropdown-menu">
-                        <p>As of 15/10/2022. The chart represents the largest quarterly drawdowns in the S&P500 since 01/01/2008. "Private Markets" represents an equally weighted (33.33%) blended index across Private Real Estate, Private Equity and Private Credit. Private Real estate consists of the NCREIF Property Index (33.3%), Private equity consists of Preqin Private Equity Index (16.65%) and Cliffwater Direct Lending Index (16.65%). Past performance is not indicative of future results. It is not possible to invest directly in an index of private market assets. Unless otherwise noted, financial indices assume reinvestment of dividends. All indices are unmanaged.</p>
+                        <p>As of 15/10/2022. The chart represents the largest quarterly drawdowns in the S&P500 since
+                            01/01/2008. "Private Markets" represents an equally weighted (33.33%) blended index across
+                            Private Real Estate, Private Equity and Private Credit. Private Real estate consists of the
+                            NCREIF Property Index (33.3%), Private equity consists of Preqin Private Equity Index
+                            (16.65%) and Cliffwater Direct Lending Index (16.65%). Past performance is not indicative of
+                            future results. It is not possible to invest directly in an index of private market assets.
+                            Unless otherwise noted, financial indices assume reinvestment of dividends. All indices are
+                            unmanaged.</p>
                     </div>
                 </div>
             </div>
@@ -184,7 +194,7 @@
                 <div class="blur-md">
                     <img src="../assets/image/world.png">
                     <h5>ETFs</h5>
-                    <p>Uranium ETF-<br>  Global X</p>
+                    <p>Uranium ETF-<br> Global X</p>
                 </div>
                 <p class="cate">Category: Exotic ETFs</p>
                 <div class="middle-sec">
@@ -194,7 +204,9 @@
                 </div>
                 <div class="dics">
                     <h4>Minimum Investment: $20,000</h4>
-                    <p>The Global X Uranium ETF (URA) seeks to provide investment results that correspond generally to the price and yield performance, before fees and expenses, of the Solactive Global Uranium & Nuclear Components Total Return Index.</p>
+                    <p>The Global X Uranium ETF (URA) seeks to provide investment results that correspond generally to
+                        the price and yield performance, before fees and expenses, of the Solactive Global Uranium &
+                        Nuclear Components Total Return Index.</p>
                 </div>
             </div>
             <div class="assets-card">
@@ -214,7 +226,10 @@
                 </div>
                 <div class="dics">
                     <h4>Minimum Investment: $100,000</h4>
-                    <p>Designed to deliver consistent and sustainable growth, UTM Option Strategies Fund is a quantitative, algorithm driven open-ended fund focused on the US options markets. It is a play on Volatility as an asset class and has low correlation with asset classes that dominate most investors’ portfolios </p>
+                    <p>Designed to deliver consistent and sustainable growth, UTM Option Strategies Fund is a
+                        quantitative, algorithm driven open-ended fund focused on the US options markets. It is a play
+                        on Volatility as an asset class and has low correlation with asset classes that dominate most
+                        investors’ portfolios </p>
                 </div>
             </div>
             <div class="assets-card">
@@ -234,7 +249,9 @@
                 </div>
                 <div class="dics">
                     <h4>Minimum Investment: $125,000</h4>
-                    <p>The Fund aims to invest through bottom up stock picking in emerging & existing themes to take advantage of the overall economic growth cycle of India. The Key themes include Financialization, Digitalization and Consumption Story of India.</p>
+                    <p>The Fund aims to invest through bottom up stock picking in emerging & existing themes to take
+                        advantage of the overall economic growth cycle of India. The Key themes include
+                        Financialization, Digitalization and Consumption Story of India.</p>
                 </div>
             </div>
         </div>
@@ -247,7 +264,7 @@
                 <div class="blur-md">
                     <img src="../assets/image/world.png">
                     <h5>ETFs</h5>
-                    <p>Uranium ETF-<br>  Global X</p>
+                    <p>Uranium ETF-<br> Global X</p>
                 </div>
                 <p class="cate">Category: Exotic ETFs</p>
                 <div class="middle-sec">
@@ -257,11 +274,13 @@
                 </div>
                 <div class="latest">
                     <p>Latest Net Asset Value: <span> Rs. 1,45,44,000</span></p>
-                    <p>Ask Price of Seller: <span>  Rs. 1,36,00,000</span></p>
+                    <p>Ask Price of Seller: <span> Rs. 1,36,00,000</span></p>
                     <p>Discount on Valuation <span>9%</span></p>
                 </div>
                 <div class="dics">
-                    <p>The Global X Uranium ETF (URA) seeks to provide investment results that correspond generally to the price and yield performance, before fees and expenses, of the Solactive Global Uranium & Nuclear Components Total Return Index.</p>
+                    <p>The Global X Uranium ETF (URA) seeks to provide investment results that correspond generally to
+                        the price and yield performance, before fees and expenses, of the Solactive Global Uranium &
+                        Nuclear Components Total Return Index.</p>
                 </div>
             </div>
             <div class="assets-card">
@@ -281,11 +300,14 @@
                 </div>
                 <div class="latest">
                     <p>Latest Net Asset Value: <span> Rs. 1,45,44,000</span></p>
-                    <p>Ask Price of Seller: <span>  Rs. 1,36,00,000</span></p>
+                    <p>Ask Price of Seller: <span> Rs. 1,36,00,000</span></p>
                     <p>Discount on Valuation <span>9%</span></p>
                 </div>
                 <div class="dics">
-                    <p>Designed to deliver consistent and sustainable growth, UTM Option Strategies Fund is a quantitative, algorithm driven open-ended fund focused on the US options markets. It is a play on Volatility as an asset class and has low correlation with asset classes that dominate most investors’ portfolios </p>
+                    <p>Designed to deliver consistent and sustainable growth, UTM Option Strategies Fund is a
+                        quantitative, algorithm driven open-ended fund focused on the US options markets. It is a play
+                        on Volatility as an asset class and has low correlation with asset classes that dominate most
+                        investors’ portfolios </p>
                 </div>
             </div>
         </div>
@@ -294,15 +316,353 @@
 
 <div class="explore-assets">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
                 <div class="bg-brown-head mb-4">
                     <h3>Explore Assets</h3>
                     <p>ASSET CLASSES</p>
                 </div>
                 <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
+                <p class="sub-heading">Asset type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Financial <br> Assets</button>
+                    <button class="inactive">Real <br> Assets</button>
+                </div>
+                <p class="sub-heading">Geographic Focus</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
+                </div>
+                <p class="sub-heading">Investment Type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Managed <br> Funds</button>
+                    <button class="inactive">Direct Investment <br> Opportunities</button>
+                </div>
+                <p class="sub-heading">Investment Strategy</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="inactive">Growth</button>
+                    <button class="inactive">Annuity</button>
+                    <button class="inactive">Hybrid</button>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="card-container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Alternative <br> Investment Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Distressed Asset <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Real Estate <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Fractional Commercial <br> Real Estate</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Long-Only Equity <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Infrastructure Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Venture Capital <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Credit <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Equity <br> Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Angel Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info mb-0">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Hedge Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info mb-0">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">PIPE Funds</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="explore-assets">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="bg-brown-head mb-4">
+                    <h3>Explore Assets</h3>
+                    <p>ASSET CLASSES</p>
+                </div>
+                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
+                <p class="sub-heading">Asset type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Financial <br> Assets</button>
+                    <button class="inactive">Real <br> Assets</button>
+                </div>
+                <p class="sub-heading">Geographic Focus</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Industrial Real Estate</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p>
+                            Invest in high-potential industrial properties, ideal for long-term growth and stable
+                            revenue generation in diverse
+                            markets.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Residential Real Estate</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p>
+                            Explore residential real estate opportunities for primary acquisition, offering consistent
+                            returns and stability in
+                            various housing markets.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Commercial Real Estate</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p>
+                            Delve into commercial real estate for primary purchase, targeting strategic locations for
+                            lucrative returns and robust
+                            market presence.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="explore-assets">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="bg-brown-head mb-4">
+                    <h3>Explore Assets</h3>
+                    <p>ASSET CLASSES</p>
+                </div>
+                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
+                <p class="sub-heading">Asset type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Financial <br> Assets</button>
+                    <button class="inactive">Real <br> Assets</button>
+                </div>
+                <p class="sub-heading">Geographic Focus</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
+                </div>
+                <p class="sub-heading">Investment Type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Managed <br> Funds</button>
+                    <button class="inactive">Direct Investment <br> Opportunities</button>
+                </div>
+                <p class="sub-heading">Investment Strategy</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="inactive">Growth</button>
+                    <button class="inactive">Annuity</button>
+                    <button class="inactive">Hybrid</button>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="card-container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Hedge Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Real Estate Investment Trust (REITs)</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Credit Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Exotic ETFs</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Equity Funds</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Venture Capital Funds</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="explore-assets">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-md-5">
+                <div class="bg-brown-head mb-4">
+                    <h3>Explore Assets</h3>
+                    <p>ASSET CLASSES</p>
+                </div>
+                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
+                <p class="sub-heading">Asset type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Financial <br> Assets</button>
+                    <button class="inactive">Real <br> Assets</button>
+                </div>
+                <p class="sub-heading">Geographic Focus</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
+                </div>
+                <p class="sub-heading">Investment Type</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="active">Managed <br> Funds</button>
+                    <button class="inactive">Direct Investment <br> Opportunities</button>
+                </div>
+                <p class="sub-heading">Investment Strategy</p>
+                <div class="d-flex gap-3 btn-group">
+                    <button class="inactive">Growth</button>
+                    <button class="inactive">Annuity</button>
+                    <button class="inactive">Hybrid</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <p class="mb-0">Angel Investing</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p class="card-desc">
+                            Financial backing provided by individuals to startups or entrepreneurs, often in exchange
+                            for ownership equity.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Growth Capital</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p class="card-desc">
+                            Investment in a mature company to support its expansion or restructuring without a change in
+                            control.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Mezzanine Financing</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p class="card-desc">
+                            A hybrid form of capital that is a mix between equity and debt, often used in leveraged
+                            buyouts.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Credit</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p class="card-desc">
+                            Lending activities conducted by non-bank institutions, offering loans to businesses not
+                            typically serviced by
+                            traditional banks.
+                        </p>
+                        <div class="col-md-6">
+                            <div class="card-info ">
+                                <img src="../assets/login-img/private.svg" alt="">
+                                <p class="mb-0">Private Equity</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6"></div>
+                        <p class="card-desc">
+                            Investment in companies that are not publicly traded on a stock exchange, often involving
+                            direct investment or buyouts.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

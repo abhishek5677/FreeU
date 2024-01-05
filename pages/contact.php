@@ -35,7 +35,7 @@
                     <div class="col-md-6 right aos-init" data-aos="fade-right">
                         <h3>GET IN <br>TOUCH</h3>
                         <h4>FreeU - Your gateway to alternative investment opportunities</h4>
-                        <p>Invest with confidence. Start a conversation with our experts!</p>
+                        <p>Invest with confidence. Start a <br> conversation with our experts!</p>
                     </div>
                     <div class="col-md-6 left aos-init " data-aos="fade-left">
                         <div class="form-tab contact-form">
@@ -49,7 +49,7 @@
                                 </li>
                                 <li><a class="" id="asset-tab" data-bs-toggle="tab" data-bs-target="#nav-email"
                                         type="button" role="tab" aria-controls="nav-email" aria-selected="false"
-                                        tabindex="-1">Asset Managers</a>
+                                        tabindex="-1">Asset Managers & Intermediaries</a>
                                 </li>
                             </ul>
                             <div class="tab-content">

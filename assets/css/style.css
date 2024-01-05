@@ -9,6 +9,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Cambria';
     src: url('../font/cambria/Cambria.woff2') format('woff2'),
@@ -17,6 +18,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'IM FELL English';
     src: url('../font/im-fell/IM_FELL_English_Roman.woff2') format('woff2'),
@@ -625,20 +627,25 @@ input:focus {
 .create-account .creat-form input::placeholder {
     font-size: 14px;
 }
+
 .contact-form .tab-pane::-webkit-scrollbar-thumb {
     background: #aba9a3;
     border-radius: 5px;
 }
+
 .contact-form .tab-pane::-webkit-scrollbar-track {
     border-radius: 5px;
 }
+
 .contact-form .tab-pane::-webkit-scrollbar {
     width: 5px;
     height: 50px;
 }
+
 .faqs-content {
     padding: 4rem 0;
 }
+
 .inner-banner-funds {
     background-image: url(../../assets/image/inner-banner-fund.png);
     background-size: cover;
@@ -646,20 +653,24 @@ input:focus {
     display: flex;
     align-items: center;
 }
+
 .inner-banner-funds h2 {
     color: #FFBD59;
     font-size: 36px;
 }
+
 .inner-banner-funds p {
     color: #fff;
     font-size: 18px;
     margin-bottom: 0;
 }
+
 .inner-banner-funds h4 {
     color: #FFBD59;
     font-size: 18px;
     font-style: italic;
 }
+
 .inner-banner-funds .banner-btn a {
     padding: 9px 25px;
     background-color: #FFBD59;
@@ -669,19 +680,23 @@ input:focus {
     border: 2px solid #000;
     border-radius: 5px;
 }
+
 .inner-banner-funds .banner-profile h5 {
     font-size: 18px;
     color: #fff;
     font-weight: 500;
     border-bottom: 1px solid #ffffffb8;
 }
+
 .inner-banner-funds .banner-profile p {
     font-size: 17px;
 }
+
 .inner-banner-funds .profile img {
     width: 80px;
     margin-right: 15px;
 }
+
 .inner-banner-funds .banner-profile {
     background-color: #C18948;
     padding: 10px;
@@ -689,15 +704,18 @@ input:focus {
     width: 85%;
     margin: auto;
 }
+
 .your-investment h2.invest-fund {
     font-size: 36px;
     position: relative;
     margin-bottom: 24px;
 }
+
 .your-investment h3 {
     font-size: 23px;
     margin-bottom: 2px;
 }
+
 .your-investment h2.invest-fund:after {
     content: '';
     position: absolute;
@@ -706,50 +724,60 @@ input:focus {
     width: 302px;
     border: 1px solid #C18948;
 }
+
 .your-investment .structure img {
     margin-bottom: 28px;
     height: 325px;
     width: auto;
 }
+
 .your-investment ul.key-feature {
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     margin-top: 10px;
 }
+
 .your-investment {
     background-color: #FFF3E4;
     padding: 4rem 0;
 }
+
 .your-investment .historical img {
     width: 100%;
     height: 100%;
 }
+
 h2.inner-heading {
     font-size: 25px;
     font-weight: 600;
     font-family: Alegreya sans-serif;
     margin-bottom: 26px;
 }
+
 .historical {
     background-color: #E8C69F;
     padding: 20px;
     border-radius: 15px;
 }
+
 .your-investment .hist-card {
     background-color: #E8C69F;
     padding: 20px;
     border-radius: 15px;
     height: 100%;
 }
+
 .banifit-tabs ul {
     list-style: auto;
     padding: 11px 21px;
 }
+
 .banifit-tabs .nav-tabs button {
     width: 135px;
     font-family: Alegreya sans-serif;
     font-weight: 600;
 }
+
 .banifit-tabs button.benefits {
     border-top-right-radius: 0;
     border-top-left-radius: 40px;
@@ -759,6 +787,7 @@ h2.inner-heading {
     border-top: 1px;
     margin-right: 2px;
 }
+
 .banifit-tabs button.risks {
     border-top-left-radius: 0 !important;
     border-top-right-radius: 40px;
@@ -767,12 +796,14 @@ h2.inner-heading {
     border: none;
     margin-left: 2px;
 }
+
 .banifit-tabs .tab-content .tab-pane.benefits {
     background-color: #C18948;
     padding: 20px;
     border-radius: 15px;
     height: 100%;
 }
+
 .banifit-tabs .tab-content .tab-pane.risks {
     background-color: #333B52;
     padding: 20px;
@@ -780,17 +811,21 @@ h2.inner-heading {
     height: 100%;
     color: #fff;
 }
+
 .banifit-tabs .tab-content li {
     padding-bottom: 15px;
 }
+
 .categories-card .cate-card h4 {
     margin-bottom: 18px;
     font-size: 20px;
     font-weight: 600;
 }
+
 .cate-card img {
     width: 130px;
 }
+
 .cate-card .btn a {
     background-color: #FFBD59;
     color: #000;
@@ -798,17 +833,20 @@ h2.inner-heading {
     border: 1px solid #000;
     border-radius: 5px;
 }
+
 .cate-card {
     background-color: #E8C69F;
     text-align: center;
     padding: 44px 20px;
     border-radius: 18px;
 }
+
 .categories-card {
     background-color: #C18948;
     padding: 26px;
     border-radius: 10px;
 }
+
 .categories h2 {
     text-align: center;
     font-size: 25px;
@@ -988,7 +1026,7 @@ h2.inner-heading {
     text-decoration: none;
     position: relative;
     transition: all 1s ease 0s;
-    font-family: 'Poppins';
+    /* font-family: 'Poppins'; */
 }
 
 .login-form a.regist {
@@ -1192,11 +1230,12 @@ h2.inner-heading {
     padding: 20px;
     border-radius: 20px;
     position: absolute;
-    top: -145px;
+    top: -142px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
-    width: 90%;
+    width: 110%;
     font-family: 'Poppins';
+    left: -55px;
 }
 
 .blue-box form label {
@@ -1285,7 +1324,7 @@ h2.inner-heading {
 
 .contact-form .nav-pills a {
     color: #e8c69f;
-    font-size: 18px;
+    font-size: 16px;
     width: 100%;
 }
 
@@ -1373,7 +1412,7 @@ input:focus {
 
 .why-jericho .banner {
     padding: 50px 0;
-    background: #EAF4FF;
+    background: #efeae5;
 }
 
 .why-jericho .banner .content h1 {
@@ -1386,7 +1425,7 @@ input:focus {
 .why-jericho .banner .content h2 {
     font-size: 20px;
     margin-bottom: 30px;
-    color: #000;
+    color: #C18948;
     line-height: 30px;
     font-weight: 500;
     /* font-family: 'Poppins'; */
@@ -1406,6 +1445,7 @@ input:focus {
 
 .why-jericho .about-content {
     padding: 50px 0;
+    background-color: #fff;
 }
 
 .why-jericho .about-content .about-left {
@@ -1470,14 +1510,14 @@ input:focus {
 }
 
 .why-jericho .bluebr-circle {
-    background: #6f87a59c;
+    background: #EFEAE5;
     width: 100px;
     height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    color: #fff;
+    color: #464646;
 }
 
 .why-jericho .bluebr-circle h2 {
@@ -1488,7 +1528,7 @@ input:focus {
 
 .why-jericho .bluebr-txt h3 {
     margin: auto;
-    color: #fff;
+    color: #000;
     font-size: 18px;
     font-weight: normal;
     line-height: 21px;
@@ -1510,5 +1550,487 @@ input:focus {
     font-size: 35px;
     font-weight: bold;
     margin-bottom: 20px;
-    font-family: system-ui, 'Open sans';
+}
+
+.why-jericho .best-invest p {
+    font-size: 18px;
+}
+
+.why-jericho .team-img img {
+    width: 85%;
+}
+
+.why-jericho .team-content {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.why-jericho .team-text {
+    background-color: #1b243d;
+    padding: 36px;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+    color: #fff !important;
+}
+
+.why-jericho .team-quote h5 {
+    font-size: 22px;
+}
+
+.why-jericho .team-quote h5::before {
+    background-color: #FFF;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 4%;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.why-jericho .team-quote p {
+    margin-left: 34px;
+}
+
+
+.why-jericho .best-invest hr {
+    background-color: #153a6b;
+    height: 2px;
+    border: none;
+}
+
+.why-jericho .partners {
+    padding: 50px 0px;
+    background-color: #F3F3F3;
+}
+
+.why-jericho .divider {
+    margin-bottom: 45px;
+}
+
+.why-jericho .partners h2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.why-jericho .b-logo {
+    text-align: center;
+}
+
+.why-jericho .b-logo img {
+    width: 80%;
+}
+
+.why-jericho .blue-bar {
+    background: #C18948;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.why-jericho .blue-bar .container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.why-jericho .bluebr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.why-jericho .rate-img {
+    width: 110px !important;
+    height: 110px !important;
+}
+
+.why-jericho .rate-img img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.why-jericho .rate-txt h2 {
+    color: #000;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.why-jericho .rate-txt h3 {
+    font-size: 15px;
+    color: #000;
+    font-weight: normal;
+}
+
+.why-jericho .bluebr .row {
+    display: contents;
+}
+
+.why-jericho .starts i {
+    font-size: 17px;
+    color: #ffb600;
+}
+
+.why-jericho .fa-star::before {
+    content: "\f005";
+}
+
+.why-jericho .Latest_news {
+    padding: 50px 0;
+    background: #F3F3F3;
+}
+
+.why-jericho h2.news-txt {
+    font-size: 35px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.why-jericho h2.news-txt::after {
+    position: absolute;
+    content: '';
+    border-bottom: 2px solid #143C6D;
+    width: 35%;
+    bottom: -10px;
+    left: 0;
+    margin: 0 auto;
+}
+
+.why-jericho .insight-card {
+    padding: 15px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    text-align: left;
+    background: white;
+}
+
+.why-jericho .insight-card img {
+    margin-bottom: 10px;
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.why-jericho .insight-card h2 {
+    font-size: 17px !important;
+    font-weight: bold;
+}
+
+.why-jericho .insight-card span {
+    font-size: 15px;
+    margin-bottom: 10px !important;
+}
+
+.why-jericho .col-md-4 .insight-card p {
+    height: 90px;
+    text-overflow: ellipsis;
+}
+
+.why-jericho .insight-card p {
+    font-size: 14px !important;
+    margin-top: 5px;
+}
+
+.why-jericho .insights p:empty {
+    display: none;
+}
+
+.why-jericho .insight-card a {
+    background: #143C6D;
+    padding: 5px 10px;
+    font-size: 13px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.why-jericho .download_mobapp {
+    background: #fff;
+    padding: 50px 0;
+}
+
+.why-jericho .download_mobapp h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.why-jericho .download_mobapp ul {
+    list-style: none;
+    line-height: 3;
+    padding-left: 0;
+    margin-bottom: 30px;
+}
+
+.why-jericho .download_mobapp ul li {
+    font-size: 20px;
+}
+
+.why-jericho .download_mobapp ul li::before {
+    background-position: center;
+    content: '';
+    background-image: url("https://staging.freeu.in/public/assets/css/FrontendCss/../../media/FrontendImages/1517.png");
+    width: 100%;
+    height: 100%;
+    padding: 10px 27px;
+    background-size: 37px;
+    background-repeat: no-repeat;
+}
+
+.why-jericho .store-app {
+    display: flex;
+    align-items: center;
+}
+
+.why-jericho .store-app img {
+    width: 150px;
+    height: 50px;
+    margin-right: 16px;
+}
+
+.why-jericho .request_back .left img {
+    width: 100%;
+    height: 350px;
+}
+
+.why-jericho .request_back {
+    background: #F3F3F3;
+    padding: 60px 0;
+}
+
+.why-jericho .request_back h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.why-jericho .request_back h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+.why-jericho .request_back form {
+    background: #fff;
+    box-shadow: 0px 1px 20px 1px #00000029;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+.why-jericho .request_back form label {
+    font-size: 17px;
+    width: 100%;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.why-jericho .request_back input {
+    width: 100%;
+    border-radius: 8px;
+    height: 35px;
+    border: 1px solid #143c6d;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.why-jericho .form-group {
+    margin-bottom: 1rem;
+}
+
+.why-jericho .request_back textarea {
+    width: 100%;
+    border-radius: 8px;
+    height: 70px;
+    border: 1px solid #143c6d;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.why-jericho button#request_callback_btn {
+    margin-left: 15px !important;
+    margin-top: 15px;
+    background: #113268;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 40px;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.why-jericho .client {
+    padding: 50px 0;
+    background-color: #efeae5;
+}
+
+.why-jericho .client .heading {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.why-jericho .client h2.client-txt::after {
+    position: absolute;
+    content: '';
+    border-bottom: 2px solid #143C6D;
+    width: 26%;
+    bottom: -13px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.why-jericho .client_says .slick-list.draggable {
+    height: 420px;
+    padding: 20px 0;
+}
+
+.why-jericho .client_says .custom-card {
+    position: relative;
+    border: 0;
+    width: 333px !important;
+    background: #fff;
+    box-shadow: 0px 1px 20px 1px #00000029;
+    padding: 20px 25px;
+    margin: 0 20px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.why-jericho .custom-card .star i {
+    font-size: 22px;
+    letter-spacing: 10px;
+    margin: 20px 0;
+    color: #143c6d;
+}
+
+.why-jericho .custom-card p {
+    font-size: 16px;
+}
+
+.why-jericho .custom-card .profile img {
+    width: 60px;
+    height: 60px;
+}
+
+.why-jericho .custom-card .profile {
+    bottom: -84px;
+    position: absolute;
+}
+
+.why-jericho .custom-card .profile h2 {
+    font-size: 20px !important;
+    margin: 5px 0 !important;
+    font-weight: bold;
+}
+
+.why-jericho .custom-card .profile h3 {
+    font-size: 17px;
+}
+
+.explore-assets .btn-group {
+    margin-bottom: 15px;
+}
+
+.explore-assets .sub-heading {
+    margin-bottom: 10px;
+}
+
+.explore-assets .active,
+.primary-investment .active {
+    background: #C18948;
+    border: navajowhite;
+    padding: 7px 18px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.explore-assets .inactive,
+.primary-investment .inactive {
+    background: #E8C69F;
+    border: navajowhite;
+    padding: 7px 20px;
+    border-radius: 5px;
+    color: #000;
+    font-size: 18px;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.explore-assets .active img,
+.explore-assets .inactive img {
+    height: 22px;
+    width: 22px;
+}
+
+.card-container {
+    background: #1B243D;
+    padding: 25px;
+    color: #C18948;
+    border-radius: 20px;
+}
+
+.card-container .card-info {
+    background: #333B52;
+    padding: 11px;
+    gap: 15px;
+    border-radius: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.card-container .card-info p {
+    font-size: 16px;
+    line-height: 1.3;
+    text-align: left;
+}
+
+.card-container .card-info img {
+    height: 40px;
+    width: 40px;
+}
+
+.card-container .card-desc {
+    line-height: 1.3;
+    margin-bottom: 10px;
+}
+
+.primary-investment {
+    background: #efeae5;
+    padding: 40px 0;
+}
+
+.primary-investment .page-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.primary-investment .page-desc {
+    text-align: center;
+    color: #1B243D;
+    font-size: 24px;
+    line-height: 1.2;
 }
