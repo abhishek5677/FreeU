@@ -30,10 +30,12 @@ a {
     text-decoration: none;
 }
 
-body {
-    font-family: 'Cambria';
+p {
+    font-family: Alegreya sans;
 }
-
+body{
+    overflow-x: hidden;
+}
 .header-menu .menubar {
     background-color: #1B243D;
     height: 100px;
@@ -348,7 +350,7 @@ h4.inner-title {
 }
 
 .header-menu .page img {
-    width: 17px;
+    width: 12px;
     margin-left: 2px;
 }
 
@@ -533,7 +535,7 @@ h4.inner-title {
     bottom: 0;
     left: 0;
     width: 100%;
-    border-bottom: 50px solid #DDD4BD;
+    border-bottom: 58.5px solid #DDD4BD;
 }
 
 .banner-content {
@@ -646,43 +648,109 @@ input:focus {
     display: flex;
     align-items: center;
 }
-.inner-banner-funds h2 {
+.fractional-banner {
+    background-image: url(../../assets/image/alternative-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.angel-funds-banner {
+    background-image: url(../../assets/image/angel-funds-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.infrastructure-funds {
+    background-image: url(../../assets/image/infa-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.venture-funds {
+    background-image: url(../../assets/image/vacture-capital.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.Distressed-Funds {
+    background-image: url(../../assets/image/Distressed-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.private-funds-banner {
+    background-image: url(../../assets/image/private-funds-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.private-credit-banner {
+    background-image: url(../../assets/image/Private-credit-banner.png);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.banner-text-contain h2  {
     color: #FFBD59;
     font-size: 36px;
+    font-family: IM FELL;
 }
-.inner-banner-funds p {
+.banner-text-contain p{
     color: #fff;
     font-size: 18px;
     margin-bottom: 0;
 }
-.inner-banner-funds h4 {
+.banner-text-contain h4 {
     color: #FFBD59;
     font-size: 18px;
-    font-style: italic;
+    font-family: Alegreya Sans;
+    font-weight: 400;
 }
-.inner-banner-funds .banner-btn a {
+.banner-text-contain button {
+    background-color: #1B243D;
+    color: #FFBD59;
+    border: 2px solid #000;
+    margin-bottom: 20px;
+    margin-top: 9px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+ .banner-btn a {
     padding: 9px 25px;
     background-color: #FFBD59;
     color: #000;
-    font-family: sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     border: 2px solid #000;
     border-radius: 5px;
+    font-family: Alegreya sans;
 }
-.inner-banner-funds .banner-profile h5 {
+ .banner-profile h5 {
     font-size: 18px;
     color: #fff;
     font-weight: 500;
     border-bottom: 1px solid #ffffffb8;
+    font-family: Alegreya sans;
 }
-.inner-banner-funds .banner-profile p {
+.indian-startup img {
+    width: 85%;
+}
+ .banner-profile p {
     font-size: 17px;
+    margin-bottom: 0;
+    color: #fff;
 }
-.inner-banner-funds .profile img {
+.banner-profile .profile img {
     width: 80px;
     margin-right: 15px;
 }
-.inner-banner-funds .banner-profile {
+ .banner-profile {
     background-color: #C18948;
     padding: 10px;
     border-radius: 10px;
@@ -747,7 +815,7 @@ h2.inner-heading {
 }
 .banifit-tabs .nav-tabs button {
     width: 135px;
-    font-family: Alegreya sans-serif;
+    font-family: Alegreya sans;
     font-weight: 600;
 }
 .banifit-tabs button.benefits {
@@ -797,6 +865,8 @@ h2.inner-heading {
     padding: 11px 24px;
     border: 1px solid #000;
     border-radius: 5px;
+    font-family: Alegreya sans;
+    font-weight: 600;
 }
 .cate-card {
     background-color: #E8C69F;
@@ -808,14 +878,371 @@ h2.inner-heading {
     background-color: #C18948;
     padding: 26px;
     border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3 ,2fr);
+    grid-gap: 24px;
+}
+.categories-card.categories-two-card {
+    background-color: #C18948;
+    padding: 26px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(2 ,2fr);
+    grid-gap: 24px;
+    width: 68%;
+    margin: auto;
+}
+h2.cate-head {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 22px;
+    margin-top: 35px;
 }
 .categories h2 {
     text-align: center;
     font-size: 25px;
     margin-bottom: 14px;
 }
+h3.bg-blue {
+    background-color: #1B243D;
+    color: #C18948;
+    display: inline;
+    padding: 6px 18px;
+    font-size: 28px;
+    font-weight: 400;
+    border-radius: 5px;
+    font-family: Alegreya sans;
+}
+.explore-cate div#nav-tab {
+    border-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.explore-cate .nav-tabs button {
+    background-color: #C18948 !important;
+    width: 240px;
+    border: 0;
+    margin-bottom: 17px;
+    padding: 8px;
+    color: #fff !important;
+    font-size: 18px;
+    font-family: Alegreya sans;
+    border-radius: 5px;
+}
+.explore-cate div#nav-tabContent {
+    background-color: #1B243D !important;
+    color: #C18948;
+    border: none !important;
+    border-radius: 20px;
+    padding: 32px 18px;
+}
+.explore-cate .real-fund img {
+    width: 40px;
+    height: 40px;
+    margin-right: 8px;
+}
+.real-fund p {
+    margin-bottom: 0;
+    font-family: Alegreya sans;
+}
+.explore-cate .real-fund {
+    display: flex;
+    align-items: center;
+    background-color: #333B52;
+    margin-bottom: 12px;
+    border-radius: 35px;
+    padding: 10px;
+}
+.explore-cate {
+    padding: 4rem 0rem;
+}
+.taxation h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.taxation tbody {
+    background-color: #E8C69F;
+    border: 5px solid #fff;
+}
+.taxation tbody tr td {
+    border: 1px solid #0000005c;
+    padding: 15px;
+}
+.taxation tbody tr th {
+    border: 1px solid #0000005c;
+    padding: 15px;
+    font-weight: 500;
+}
+.category-banner {
+    background-image: url(../../assets/image/cate-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.sebi-graph img {
+    width: 80%;
+}
+.your-investment .sebi-graph {
+    background-color: #E8C69F;
+    text-align: center;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+.sebi-graph h5 {
+    font-size: 16px;
+    text-align: justify;
+    padding-top: 10px;
+}
+p.disclaimer {
+    font-style: italic;
+}
+.realstate-graph img {
+    border: 1px solid;
+    width: 65%;
+    border-radius: 20px;
+}
+.realstate-graph {
+    text-align: center;
+}
+.realstate-graph p.disclaimer {
+    font-size: 14px;
+}
+.real-estate-table td {
+    padding: 6px;
+}
+.real-estate-table span.team {
+    background-color: #1B243D;
+    width: 84%;
+    display: flex;
+    color: #FFBD59;
+    padding: 8px 13px;
+    font-size: 18px;
+}
+.real-estate-table th {
+    padding: 6px;
+    padding-bottom: 14px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.real-estate-table {
+    background-color: #E8C69F;
+    padding: 15px;
+    border-radius: 10px;
+}
+.investment h2 {
+    font-size: 36px;
+    font-weight: 500;
+    font-family: IM Fell;
+    margin-bottom: 18px;
+    text-align: center;
+}
+.investment {
+    padding-top: 3rem;
+}
+.invest-card .card-img img {
+    width: 100%;
+    border-radius: 18px;
+}
+.invest-card h4 {
+    font-family: Alegreya sans;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 1px;
+}
+.invest-card p {
+    font-size: 20px;
+}
+.invest-card .disc img {
+    width: 35px;
+    height: 35px;
+    margin-right: 18px;
+}
+.invest-card .disc {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+.invest-card .disc h5 {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.invest-card .disc p {
+    margin-bottom: 0;
+    font-size: 16px;
+}
+.investment .invest-card {
+    background-color: #E8C69F;
+    border-radius: 18px;
+    margin: 0 10px;
+}
+.invest-card .disc p.per {
+    background-color: #00BF63;
+    text-align: center;
+    display: inline;
+    padding: 3px 30px;
+    border-radius: 5px;
+}
+.lifecircle img {
+    width: 100%;
+}   
+.growth img {
+    width: 68%;
+}
+.your-investment .growth {
+    padding: 4rem 0 2rem 0;
+}
+.venturecapital img {
+    width: 100%;
+}
+ .annual img {
+    width: 100%;
+}
+.your-investment .annual {
+    background-color: #E8C69F;
+    padding: 15px;
+    border-radius: 10px;
+}
+.annual li {
+    font-size: 14px;
+}
+.your-investment .dist-fund img {
+    width: 100%;
+}
+.dist-fund p.disclaimer {
+    font-weight: 600;
+}
+p.fw-two {
+    font-weight: 500;
+}
+.banifit-tabs .tab-content ul strong {
+    font-weight: 600;
+}
+p.brown-text {
+    color: #D19D60;
+    font-size: 18px;
+    font-weight: 500;
+}
+.drivers .dri-label {
+    display: flex;
+    align-items: center;
+}
+.drivers .dri-label h4 {
+    font-size: 14px;
+    color: #D19D60;
+    margin-bottom: 0;
+}
+.drivers .blue-boxx {
+    background-color: #1B243D;
+    width: 115px;
+    min-width: 115px;
+    display: flex;
+    align-items: center;
+    height: 82px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 6px;
+}
+.drivers .drive-label li {
+    font-size: 12px;
+}
+.drivers .drive-label ul {
+    background-color: #d3d6e7;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding: 4px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+}
+.drivers p.brown-text {
+    margin-bottom: 4px;
+}
+.amount-tabs {
+    background-color: #E8C69F;
+    padding: 15px;
+    border-radius: 10px;
+}
+.amount-table img {
+    width: 570px;
+}
 
 
+.menubar .dropdown-menu {
+    width: 100vw;
+    left: 0;
+    /* display: none; */
+    /* visibility: hidden; */
+    padding: 0;
+    margin: 0;
+    z-index: 9999;
+    border: none;
+    border-radius: 0;
+    background-color:#c18948f7;
+    box-shadow: none;
+    padding: 58px 0 38px 0;
+    top: 24px !important;
+}
+
+/* .menubar .dropdown:hover .dropdown-menu {
+    display: block;
+    visibility: visible;
+} */
+
+.menubar .dropdown-menu .dropdown-item {
+    width: 100%;
+    padding: 10px;
+    color: #333;
+}
+
+.menubar .dropdown button.btns {
+    color: #C18948;
+    font-size: 18px;
+    font-family: cambria;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+.menubar .dropdown button.btns:active {
+    border: none;
+}
+.menubar button.btns.show {
+    border: none;
+}
+.dropdown .product h3 {
+    font-size: 20px;
+    font-family: 'Cambria';
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+.dropdown .drop-page {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+.product .drop-page h4 {
+    font-size: 19px;
+    font-family: 'Cambria';
+    font-weight: 600;
+    margin-bottom: 2px;
+    color: #000;
+}
+.product .drop-page p {
+    font-family: 'Cambria';
+    font-size: 17px;
+    margin-bottom: 0;
+    line-height: 20px;
+    color: #000;
+}
+.header-menu .product .drop-page img {
+    width: 48px;
+}
+.product .drop-page .drop-img {
+    margin-right: 18px;
+}
 /* css added by abhishek */
 
 .login {
