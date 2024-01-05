@@ -611,7 +611,7 @@ input:focus {
 .create-account button {
     background-color: #C18948;
     width: 110px;
-    height: 82px;
+    height: 50px;
     border-radius: 10px;
     border: none;
     margin-top: 10px;
