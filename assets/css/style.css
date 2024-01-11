@@ -35,7 +35,9 @@ a {
 p {
     font-family: 'Cambria';
 }
-
+a:focus-visible {
+    outline: none !important;
+}
 body {
     overflow-x: hidden;
     font-family: 'Cambria';
@@ -1829,6 +1831,127 @@ li.item.list-item:nth-child(even) {
     height: 40px;
     border-radius: 50px;
 }
+.primary-investment button.active img {
+    width: 22px;
+}
+.primary-investment .parimay-card {
+    grid-gap: 33px;
+}
+.accordion-header button.accordion-button {
+    padding-bottom: 18px;
+}
+.logout-modal p.log-ctn {
+    font-size: 18px;
+    text-align: center;
+}
+.logout-modal .log-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logout-modal .modal-body a {
+    border-radius: 5px;
+    padding: 5px 40px;
+    height: 43px;
+    font-weight: 400;
+    border: 1px solid #C18948;
+    align-items: center;
+    display: flex;
+    color: #000;
+    font-size: 18px;
+}
+.logout-modal .modal-body h2 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 17px;
+}
+.dropdown a:active {
+    background-color: inherit !important;
+}
+.menubar  .dropdown .border-left:before {
+    content: '';
+    position: absolute;
+    top: -9px;
+    left: -5px;
+    border: 2px solid;
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+}
+.menubar  .dropdown .border-left:after {
+    content: '';
+    position: absolute;
+    bottom: -9px;
+    left: -5px;
+    border: 2px solid;
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+}
+.menubar .left-prdt .product{
+    padding-left: 30px;
+}
+.border-left {
+    border: 1px solid #000;
+    position: relative;
+}
+.product-banner {
+    background: linear-gradient(59deg,#ffffff, #c18948);
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.product-banner p {
+    font-size: 22px;
+}
+.product-banner .yellow-btn {
+    background: #C18948;
+    color: #000;
+    font-weight: 500;
+    font-size: 18px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: max-content;
+    padding: 7px 34px;
+    border-radius: 6px;
+    border: 1px solid;
+    margin-top: 28px;
+}
+.inner-disc .crds img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #143c6d;
+    padding: 4px;
+    object-fit: contain;
+}
+.inner-disc .crds-inner h2 {
+    font-size: 19px;
+    font-weight: bold;
+}
+.inner-disc .crds {
+    display: flex;
+    align-items: center;
+    margin-bottom: 26px;
+}
+.inner-disc .overlay-box {
+    background: #fff;
+    box-shadow: 0px 12px 20px #00000029;
+    padding: 28px 19px;
+    border-radius: 10px;
+}
+.inner-disc {
+    padding: 3rem 0;
+}
+.inner-disc .crds-inner {
+    margin-left: 18px;
+}
+.inner-text-content {
+    background-color: #FFF3E4;
+}
 
 /* css added by abhishek */
 
@@ -1931,7 +2054,7 @@ li.item.list-item:nth-child(even) {
     display: none;
 }
 
-.fade {
+.login .fade {
     opacity: 0;
     transition: opacity .15s linear;
 }
@@ -2015,7 +2138,7 @@ li.item.list-item:nth-child(even) {
 }
 
 .login-form a.regist span {
-    color: #143C6D;
+    color: #c18948;
 }
 
 .tab-content>.active {

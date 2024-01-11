@@ -60,7 +60,7 @@
                         <a class="dropdown-item" href="investor-profile.php">My Profile</a>
                         <a class="dropdown-item" href="security.php">Security</a>
                         <a class="dropdown-item" href="dashboard.php">Dashboard</a>
-                        <a class="dropdown-item" data-toggle="modal" data-target="#logout-modal">Logout</a>
+                        <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Logout</a>
                     </div>
                 </div>  
             </li>
@@ -121,44 +121,47 @@
                                                             </a>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4">
-                                                        <div class="product">
-                                                            <h3>Products</h3>
-                                                            <a href="primary-investment.php">
-                                                                <div class="drop-page">
-                                                                    <div class="drop-img">
-                                                                        <img src="../assets/image/funds-assets.png">
+                                                    <div class="col-md-4 left-prdt">
+                                                        <div class="d-flex">
+                                                            <div class="border-left"></div>
+                                                            <div class="product">
+                                                                <h3>Products</h3>
+                                                                <a href="primary-investment.php">
+                                                                    <div class="drop-page">
+                                                                        <div class="drop-img">
+                                                                            <img src="../assets/image/funds-assets.png">
+                                                                        </div>
+                                                                        <div>
+                                                                            <h4>Funds ( Alternatives Assets )</h4>
+                                                                            <p>Invest in Founds and Exotic Strategies of 
+                                                                            Alternatives Assets</p>
+                                                                        </div>
                                                                     </div>
-                                                                    <div>
-                                                                        <h4>Funds ( Alternatives Assets )</h4>
-                                                                        <p>Invest in Founds and Exotic Strategies of 
-                                                                        Alternatives Assets</p>
+                                                                </a>
+                                                                <a href="coming-soon.php">
+                                                                    <div class="drop-page">
+                                                                        <div class="drop-img">
+                                                                            <img src="../assets/image/unlisted.png">
+                                                                        </div>
+                                                                        <div>
+                                                                            <h4>Unlisted Companies</h4>
+                                                                            <p>Invest Debt and Equities of Unlisted
+                                                                            Companies</p>
+                                                                        </div>
                                                                     </div>
-                                                                </div>
-                                                            </a>
-                                                            <a href="coming-soon.php">
-                                                                <div class="drop-page">
-                                                                    <div class="drop-img">
-                                                                        <img src="../assets/image/unlisted.png">
+                                                                </a>
+                                                                <a href="secondary-transaction.php">
+                                                                    <div class="drop-page">
+                                                                        <div class="drop-img">
+                                                                            <img src="../assets/image/sec-market.png">
+                                                                        </div>
+                                                                        <div>
+                                                                            <h4>Secondary Market</h4>
+                                                                            <p>Your window for Early Liquidity</p>
+                                                                        </div>
                                                                     </div>
-                                                                    <div>
-                                                                        <h4>Unlisted Companies</h4>
-                                                                        <p>Invest Debt and Equities of Unlisted
-                                                                        Companies</p>
-                                                                    </div>
-                                                                </div>
-                                                            </a>
-                                                            <a href="secondary-transaction.php">
-                                                                <div class="drop-page">
-                                                                    <div class="drop-img">
-                                                                        <img src="../assets/image/sec-market.png">
-                                                                    </div>
-                                                                    <div>
-                                                                        <h4>Secondary Market</h4>
-                                                                        <p>Your window for Early Liquidity</p>
-                                                                    </div>
-                                                                </div>
-                                                            </a>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -229,4 +232,23 @@
             </div>
         </div>
     </div>
+</div>
+
+
+<div class="modal fade logout-modal" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body pb-5 pt-5">
+        <h2>Logout</h2>
+        <p class="log-ctn">Are you sure want to log out?</p>
+        <div class="log-btn">
+          <a href="" data-dismiss="modal" class="cancle-btn m-2">Cancel</a>
+          <a href="https://staging.freeu.in/sign-out" class="yellow-btn m-2">Log Out</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
