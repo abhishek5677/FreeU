@@ -107,100 +107,106 @@
             <h2>Open Investments</h2>
             <div class="row mb-4">
                 <div class="col-md-4 col-sm-12">
-                     <div class="invest-card">
-                        <div class="card-img">
-                            <img src="../assets/image/invest-img.png">
+                    <a href="prestige-tech-platina.php">
+                        <div class="invest-card">
+                           <div class="card-img">
+                               <img src="../assets/image/invest-img.png">
+                           </div>
+                           <div class="p-3">
+                               <h4>Prestige Tech Platina</h4>
+                               <p>Bangalore</p>
+                               <div class="disc">
+                                   <img src="../assets/image/location.svg">
+                                   <div>
+                                       <h5>Location:</h5>
+                                       <p>Seawoods, Navi Mumbai</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/tax.svg">
+                                   <div>
+                                       <h5>Pre-Tax IRR:</h5>
+                                       <p>14.00%</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/minimum.svg">
+                                   <div>
+                                       <h5>Minimum Investment:</h5>
+                                       <p>₹ 25,00,000</p>
+                                   </div>
+                               </div>
+                           </div>
                         </div>
-                        <div class="p-3">
-                            <h4>Prestige Tech Platina</h4>
-                            <p>Bangalore</p>
-                            <div class="disc">
-                                <img src="../assets/image/location.svg">
-                                <div>
-                                    <h5>Location:</h5>
-                                    <p>Seawoods, Navi Mumbai</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/tax.svg">
-                                <div>
-                                    <h5>Pre-Tax IRR:</h5>
-                                    <p>14.00%</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/minimum.svg">
-                                <div>
-                                    <h5>Minimum Investment:</h5>
-                                    <p>₹ 25,00,000</p>
-                                </div>
-                            </div>
-                        </div>
-                     </div>
+                    </a>
                 </div>
                 <div class="col-md-4 col-sm-12">
-                     <div class="invest-card">
-                        <div class="card-img">
-                            <img src="../assets/image/invest-img.png">
+                    <a href="prestige-tech-platina.php">
+                        <div class="invest-card">
+                           <div class="card-img">
+                               <img src="../assets/image/invest-img.png">
+                           </div>
+                           <div class="p-3">
+                               <h4>Prestige Tech Platina</h4>
+                               <p>Bangalore</p>
+                               <div class="disc">
+                                   <img src="../assets/image/location.svg">
+                                   <div>
+                                       <h5>Location:</h5>
+                                       <p>Seawoods, Navi Mumbai</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/tax.svg">
+                                   <div>
+                                       <h5>Pre-Tax IRR:</h5>
+                                       <p>14.00%</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/minimum.svg">
+                                   <div>
+                                       <h5>Minimum Investment:</h5>
+                                       <p>₹ 25,00,000</p>
+                                   </div>
+                               </div>
+                           </div>
                         </div>
-                        <div class="p-3">
-                            <h4>Prestige Tech Platina</h4>
-                            <p>Bangalore</p>
-                            <div class="disc">
-                                <img src="../assets/image/location.svg">
-                                <div>
-                                    <h5>Location:</h5>
-                                    <p>Seawoods, Navi Mumbai</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/tax.svg">
-                                <div>
-                                    <h5>Pre-Tax IRR:</h5>
-                                    <p>14.00%</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/minimum.svg">
-                                <div>
-                                    <h5>Minimum Investment:</h5>
-                                    <p>₹ 25,00,000</p>
-                                </div>
-                            </div>
-                        </div>
-                     </div>
+                    </a>
                 </div>
                 <div class="col-md-4 col-sm-12">
-                     <div class="invest-card">
-                        <div class="card-img">
-                            <img src="../assets/image/invest-img.png">
+                    <a href="prestige-tech-platina.php">
+                        <div class="invest-card">
+                           <div class="card-img">
+                               <img src="../assets/image/invest-img.png">
+                           </div>
+                           <div class="p-3">
+                               <h4>Prestige Tech Platina</h4>
+                               <p>Bangalore</p>
+                               <div class="disc">
+                                   <img src="../assets/image/location.svg">
+                                   <div>
+                                       <h5>Location:</h5>
+                                       <p>Seawoods, Navi Mumbai</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/tax.svg">
+                                   <div>
+                                       <h5>Pre-Tax IRR:</h5>
+                                       <p>14.00%</p>
+                                   </div>
+                               </div>
+                               <div class="disc">
+                                   <img src="../assets/image/minimum.svg">
+                                   <div>
+                                       <h5>Minimum Investment:</h5>
+                                       <p>₹ 25,00,000</p>
+                                   </div>
+                               </div>
+                           </div>
                         </div>
-                        <div class="p-3">
-                            <h4>Prestige Tech Platina</h4>
-                            <p>Bangalore</p>
-                            <div class="disc">
-                                <img src="../assets/image/location.svg">
-                                <div>
-                                    <h5>Location:</h5>
-                                    <p>Seawoods, Navi Mumbai</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/tax.svg">
-                                <div>
-                                    <h5>Pre-Tax IRR:</h5>
-                                    <p>14.00%</p>
-                                </div>
-                            </div>
-                            <div class="disc">
-                                <img src="../assets/image/minimum.svg">
-                                <div>
-                                    <h5>Minimum Investment:</h5>
-                                    <p>₹ 25,00,000</p>
-                                </div>
-                            </div>
-                        </div>
-                     </div>
+                    </a>
                 </div>
             </div>
             <h2>Investments for Resale</h2>

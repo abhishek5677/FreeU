@@ -80,28 +80,34 @@
                             <div class="tab-pane fade active show" id="cad-one" role="tabpanel" aria-labelledby="cad-one-tab">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/stra-fund.svg">
+                                        <a href="hedge-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/stra-fund.svg">
+                                                </div>
+                                                <p>Hedge Funds</p>
                                             </div>
-                                            <p>Hedge Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/pipe-funds.svg">
+                                        <a href="pipe-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/pipe-funds.svg">
+                                                </div>
+                                                <p>PIPE Funds</p>
                                             </div>
-                                            <p>PIPE Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/bay-arrow.svg">
+                                        <a href="long-only-equity-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/bay-arrow.svg">
+                                                </div>
+                                                <p>Long-Only Equity Funds</p>
                                             </div>
-                                            <p>Long-Only Equity Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

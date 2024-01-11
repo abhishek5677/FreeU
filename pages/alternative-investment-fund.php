@@ -214,252 +214,312 @@
                         <div class="tab-pane fade active show" id="cad-one" role="tabpanel" aria-labelledby="cad-one-tab">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/real-state.svg">
+                                    <a href="private-real-estate-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/real-state.svg">
+                                            </div>
+                                            <p>Private Real Estate Funds</p>
                                         </div>
-                                        <p>Private Real Estate Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/Infr-funds.svg">
+                                    <a href="infrastructure-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/Infr-funds.svg">
+                                            </div>
+                                            <p>Infrastructure Funds</p>
                                         </div>
-                                        <p>Infrastructure Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/bay-arrow.svg">
+                                    <a href="long-only-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/bay-arrow.svg">
+                                            </div>
+                                            <p>Long-Only Equity Funds</p>
                                         </div>
-                                        <p>Long-Only Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/cradit-funds.svg">
+                                    <a href="Private-credit-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/cradit-funds.svg">
+                                            </div>
+                                            <p>Private Credit Funds</p>
                                         </div>
-                                        <p>Private Credit Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/capital-funds.svg">
+                                    <a href="venture-capital-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/capital-funds.svg">
+                                            </div>
+                                            <p>Venture Capital Funds</p>
                                         </div>
-                                        <p>Venture Capital Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/angel-funds.svg">
+                                    <a href="angel-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/angel-funds.svg">
+                                            </div>
+                                            <p>Angel Funds</p>
                                         </div>
-                                        <p>Angel Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/equity-funds.svg">
+                                    <a href="private-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/equity-funds.svg">
+                                            </div>
+                                            <p>Private Equity Funds</p>
                                         </div>
-                                        <p>Private Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/pipe-funds.svg">
+                                    <a href="pipe-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/pipe-funds.svg">
+                                            </div>
+                                            <p>PIPE Funds</p>
                                         </div>
-                                        <p>PIPE Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/stra-fund.svg">
+                                    <a href="hedge-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/stra-fund.svg">
+                                            </div>
+                                            <p>Hedge Funds</p>
                                         </div>
-                                        <p>Hedge Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/assets-funds.svg">
+                                    <a href="distressed-asset-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/assets-funds.svg">
+                                            </div>
+                                            <p>Distressed Asset Funds</p>
                                         </div>
-                                        <p>Distressed Asset Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="cad-two" role="tabpanel" aria-labelledby="cad-two-tab">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/Infr-funds.svg">
+                                    <a href="infrastructure-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/Infr-funds.svg">
+                                            </div>
+                                            <p>Infrastructure Funds</p>
                                         </div>
-                                        <p>Infrastructure Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/real-state.svg">
+                                    <a href="private-real-estate-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/real-state.svg">
+                                            </div>
+                                            <p>Private Real Estate Funds</p>
                                         </div>
-                                        <p>Private Real Estate Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/cradit-funds.svg">
+                                    <a href="Private-credit-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/cradit-funds.svg">
+                                            </div>
+                                            <p>Private Credit Funds</p>
                                         </div>
-                                        <p>Private Credit Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/bay-arrow.svg">
+                                    <a href="long-only-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/bay-arrow.svg">
+                                            </div>
+                                            <p>Long-Only Equity Funds</p>
                                         </div>
-                                        <p>Long-Only Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/angel-funds.svg">
+                                    <a href="angel-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/angel-funds.svg">
+                                            </div>
+                                            <p>Angel Funds</p>
                                         </div>
-                                        <p>Angel Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/capital-funds.svg">
+                                    <a href="venture-capital-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/capital-funds.svg">
+                                            </div>
+                                            <p>Venture Capital Funds</p>
                                         </div>
-                                        <p>Venture Capital Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/equity-funds.svg">
+                                    <a href="private-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/equity-funds.svg">
+                                            </div>
+                                            <p>Private Equity Funds</p>
                                         </div>
-                                        <p>Private Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/stra-fund.svg">
+                                    <a href="hedge-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/stra-fund.svg">
+                                            </div>
+                                            <p>Hedge Funds</p>
                                         </div>
-                                        <p>Hedge Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/assets-funds.svg">
+                                    <a href="distressed-asset-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/assets-funds.svg">
+                                            </div>
+                                            <p>Distressed Asset Funds</p>
                                         </div>
-                                        <p>Distressed Asset Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/pipe-funds.svg">
+                                    <a href="pipe-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/pipe-funds.svg">
+                                            </div>
+                                            <p>PIPE Funds</p>
                                         </div>
-                                        <p>PIPE Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="cad-three" role="tabpanel" aria-labelledby="cad-three-tab">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/cradit-funds.svg">
+                                    <a href="Private-credit-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/cradit-funds.svg">
+                                            </div>
+                                            <p>Private Credit Funds</p>
                                         </div>
-                                        <p>Private Credit Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/capital-funds.svg">
+                                    <a href="venture-capital-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/capital-funds.svg">
+                                            </div>
+                                            <p>Venture Capital Funds</p>
                                         </div>
-                                        <p>Venture Capital Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/angel-funds.svg">
+                                    <a href="angel-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/angel-funds.svg">
+                                            </div>
+                                            <p>Angel Funds</p>
                                         </div>
-                                        <p>Angel Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/equity-funds.svg">
+                                    <a href="private-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/equity-funds.svg">
+                                            </div>
+                                            <p>Private Equity Funds</p>
                                         </div>
-                                        <p>Private Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/pipe-funds.svg">
+                                    <a href="pipe-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/pipe-funds.svg">
+                                            </div>
+                                            <p>PIPE Funds</p>
                                         </div>
-                                        <p>PIPE Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/real-state.svg">
+                                    <a href="private-real-estate-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/real-state.svg">
+                                            </div>
+                                            <p>Private Real Estate Funds</p>
                                         </div>
-                                        <p>Private Real Estate Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/Infr-funds.svg">
+                                    <a href="infrastructure-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/Infr-funds.svg">
+                                            </div>
+                                            <p>Infrastructure Funds</p>
                                         </div>
-                                        <p>Infrastructure Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/bay-arrow.svg">
+                                    <a href="long-only-equity-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/bay-arrow.svg">
+                                            </div>
+                                            <p>Long-Only Equity Funds</p>
                                         </div>
-                                        <p>Long-Only Equity Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/stra-fund.svg">
+                                    <a href="hedge-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/stra-fund.svg">
+                                            </div>
+                                            <p>Hedge Funds</p>
                                         </div>
-                                        <p>Hedge Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="real-fund">
-                                        <div class="icon">
-                                            <img src="../assets/image/assets-funds.svg">
+                                    <a href="distressed-asset-funds.php">
+                                        <div class="real-fund">
+                                            <div class="icon">
+                                                <img src="../assets/image/assets-funds.svg">
+                                            </div>
+                                            <p>Distressed Asset Funds</p>
                                         </div>
-                                        <p>Distressed Asset Funds</p>
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
                         </div>

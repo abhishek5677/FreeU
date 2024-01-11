@@ -82,36 +82,44 @@
                             <div class="tab-pane fade active show" id="cad-one" role="tabpanel" aria-labelledby="cad-one-tab">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/assets-funds.svg">
+                                        <a href="distressed-asset-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/assets-funds.svg">
+                                                </div>
+                                                <p>Distressed Asset Funds</p>
                                             </div>
-                                            <p>Distressed Asset Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/cradit-funds.svg">
+                                        <a href="Private-credit-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/cradit-funds.svg">
+                                                </div>
+                                                <p>Private Credit Funds</p>
                                             </div>
-                                            <p>Private Credit Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/real-state.svg">
+                                        <a href="private-real-estate-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/real-state.svg">
+                                                </div>
+                                                <p>Private Real Estate Funds</p>
                                             </div>
-                                            <p>Private Real Estate Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/equity-funds.svg">
+                                        <a href="private-equity-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/equity-funds.svg">
+                                                </div>
+                                                <p>Private Equity Funds</p>
                                             </div>
-                                            <p>Private Equity Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

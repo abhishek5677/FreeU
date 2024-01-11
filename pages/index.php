@@ -341,76 +341,100 @@
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
-                                <p class="mb-0">Alternative Investment Funds</p>
-                            </div>
+                            <a href="alternative-investment-fund.php">
+                                <div class="card-info">
+                                    <img src="../assets/login-img/alternative.svg" alt="">
+                                    <p class="mb-0">Alternative Investment Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/assets-funds.svg">
-                                <p class="mb-0">Distressed Asset Funds</p>
-                            </div>
+                            <a href="distressed-asset-funds.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/assets-funds.svg">
+                                    <p class="mb-0">Distressed Asset Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/login-img/private.svg" alt="">
-                                <p class="mb-0">Private Real Estate Funds</p>
-                            </div>
+                            <a href="private-real-estate-funds.php">
+                                <div class="card-info">
+                                    <img src="../assets/login-img/private.svg" alt="">
+                                    <p class="mb-0">Private Real Estate Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/fract-state.svg" alt="">
-                                <p class="mb-0">Fractional Commercial Real Estate</p>
-                            </div>
+                            <a href="fractional-real-estate.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/fract-state.svg" alt="">
+                                    <p class="mb-0">Fractional Commercial Real Estate</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/bay-arrow.svg">
-                                <p class="mb-0">Long-Only Equity Funds</p>
-                            </div>
+                            <a href="long-only-equity-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/bay-arrow.svg">
+                                    <p class="mb-0">Long-Only Equity Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/Infr-funds.svg">
-                                <p class="mb-0">Infrastructure Funds</p>
-                            </div>
+                            <a href="infrastructure-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/Infr-funds.svg">
+                                    <p class="mb-0">Infrastructure Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/capital-funds.svg">
-                                <p class="mb-0">Venture Capital <br> Funds</p>
-                            </div>
+                            <a href="venture-capital-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/capital-funds.svg">
+                                    <p class="mb-0">Venture Capital <br> Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/cradit-funds.svg">
-                                <p class="mb-0">Private Credit <br> Funds</p>
-                            </div>
+                            <a href="Private-credit-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/cradit-funds.svg">
+                                    <p class="mb-0">Private Credit <br> Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/equity-funds.svg">
-                                <p class="mb-0">Private Equity <br> Funds</p>
-                            </div>
+                            <a href="">
+                                <div class="card-info ">
+                                    <img src="../assets/image/equity-funds.svg">
+                                    <p class="mb-0">Private Equity <br> Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/angel-funds.svg">
-                                <p class="mb-0">Angel Funds</p>
-                            </div>
+                            <a href="angel-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/angel-funds.svg">
+                                    <p class="mb-0">Angel Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info mb-0">
-                                <img src="../assets/image/stra-fund.svg">
-                                <p class="mb-0">Hedge Funds</p>
-                            </div>
+                            <a href="hedge-funds.php">
+                                <div class="card-info mb-0">
+                                    <img src="../assets/image/stra-fund.svg">
+                                    <p class="mb-0">Hedge Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info mb-0">
-                                <img src="../assets/image/pipe-funds.svg">
-                                <p class="mb-0">PIPE Funds</p>
-                            </div>
+                            <a href="pipe-funds.php">
+                                <div class="card-info mb-0">
+                                    <img src="../assets/image/pipe-funds.svg">
+                                    <p class="mb-0">PIPE Funds</p>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -443,10 +467,12 @@
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
-                                <p class="mb-0">Industrial Real Estate</p>
-                            </div>
+                            <a href="industrial-real-estate.php">
+                                <div class="card-info">
+                                    <img src="../assets/login-img/alternative.svg" alt="">
+                                    <p class="mb-0">Industrial Real Estate</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p>
@@ -455,10 +481,12 @@
                             markets.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/resi-real-state.svg" alt="">
-                                <p class="mb-0">Residential Real Estate</p>
-                            </div>
+                            <a href="residential-real-estate.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/resi-real-state.svg" alt="">
+                                    <p class="mb-0">Residential Real Estate</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p>
@@ -467,10 +495,12 @@
                             various housing markets.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/comm-real-state.svg" alt="">
-                                <p class="mb-0">Commercial Real Estate</p>
-                            </div>
+                            <a href="commercial-real-estate.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/comm-real-state.svg" alt="">
+                                    <p class="mb-0">Commercial Real Estate</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p>
@@ -520,40 +550,52 @@
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="card-info">
-                                 <img src="../assets/image/stra-fund.svg">
-                                <p class="mb-0">Hedge Funds</p>
-                            </div>
+                            <a href="hedge-funds.php">
+                                <div class="card-info">
+                                     <img src="../assets/image/stra-fund.svg">
+                                    <p class="mb-0">Hedge Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/fract-state.svg" alt="">
-                                <p class="mb-0">Real Estate Investment Trust (REITs)</p>
-                            </div>
+                            <a href="global-reits.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/fract-state.svg" alt="">
+                                    <p class="mb-0">Real Estate Investment Trust (REITs)</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/cradit-funds.svg">
-                                <p class="mb-0">Private Credit Funds</p>
-                            </div>
+                            <a href="Private-credit-funds.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/cradit-funds.svg">
+                                    <p class="mb-0">Private Credit Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
-                                <p class="mb-0">Exotic ETFs</p>
-                            </div>
+                            <a href="exotic-etfs.php">
+                                <div class="card-info ">
+                                    <img src="../assets/login-img/private.svg" alt="">
+                                    <p class="mb-0">Exotic ETFs</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/equity-funds.svg">
-                                <p class="mb-0">Private Equity Funds</p>
-                            </div>
+                            <a href="private-equity-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/equity-funds.svg">
+                                    <p class="mb-0">Private Equity Funds</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/capital-funds.svg">
-                                <p class="mb-0">Venture Capital Funds</p>
-                            </div>
+                            <a href="venture-capital-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/capital-funds.svg">
+                                    <p class="mb-0">Venture Capital Funds</p>
+                                </div>
+                            </a>
                         </div>
 
                     </div>
@@ -598,10 +640,12 @@
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/angel-investing.svg" alt="">
-                                <p class="mb-0">Angel Investing</p>
-                            </div>
+                            <a href="angel-funds.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/angel-investing.svg" alt="">
+                                    <p class="mb-0">Angel Investing</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p class="card-desc">
@@ -609,10 +653,12 @@
                             for ownership equity.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info">
-                                <img src="../assets/image/bay-arrow.svg">
-                                <p class="mb-0">Growth Capital</p>
-                            </div>
+                            <a href="venture-capital-funds.php">
+                                <div class="card-info">
+                                    <img src="../assets/image/bay-arrow.svg">
+                                    <p class="mb-0">Growth Capital</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p class="card-desc">
@@ -620,10 +666,12 @@
                             control.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/doller-fainace.svg" alt="">
-                                <p class="mb-0">Mezzanine Financing</p>
-                            </div>
+                            <a href="">
+                                <div class="card-info ">
+                                    <img src="../assets/image/doller-fainace.svg" alt="">
+                                    <p class="mb-0">Mezzanine Financing</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p class="card-desc">
@@ -631,10 +679,12 @@
                             buyouts.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/cradit-funds.svg">
-                                <p class="mb-0">Private Credit</p>
-                            </div>
+                            <a href="Private-credit-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/cradit-funds.svg">
+                                    <p class="mb-0">Private Credit</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p class="card-desc">
@@ -643,10 +693,12 @@
                             traditional banks.
                         </p>
                         <div class="col-md-6">
-                            <div class="card-info ">
-                                <img src="../assets/image/equity-funds.svg">
-                                <p class="mb-0">Private Equity</p>
-                            </div>
+                            <a href="private-equity-funds.php">
+                                <div class="card-info ">
+                                    <img src="../assets/image/equity-funds.svg">
+                                    <p class="mb-0">Private Equity</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6"></div>
                         <p class="card-desc">

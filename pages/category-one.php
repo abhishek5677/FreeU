@@ -86,28 +86,34 @@
                             <div class="tab-pane fade active show" id="cad-one" role="tabpanel" aria-labelledby="cad-one-tab">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/capital-funds.svg">
+                                        <a href="venture-capital-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/capital-funds.svg">
+                                                </div>
+                                                <p>Venture Capital Funds</p>
                                             </div>
-                                            <p>Venture Capital Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/angel-funds.svg">
+                                        <a href="angel-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/angel-funds.svg">
+                                                </div>
+                                                <p>Angel Funds</p>
                                             </div>
-                                            <p>Angel Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="real-fund">
-                                            <div class="icon">
-                                                <img src="../assets/image/Infr-funds.svg">
+                                        <a href="infrastructure-funds.php">
+                                            <div class="real-fund">
+                                                <div class="icon">
+                                                    <img src="../assets/image/Infr-funds.svg">
+                                                </div>
+                                                <p>Infrastructure Funds</p>
                                             </div>
-                                            <p>Infrastructure Funds</p>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
