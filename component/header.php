@@ -25,7 +25,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Our Solution</h3>
-                                                            <a href="">
+                                                            <a href="how-it-works.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/setting.png">
@@ -37,7 +37,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="platform-features.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/platform.png">
@@ -55,7 +55,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Products</h3>
-                                                            <a href="">
+                                                            <a href="primary-investment.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/funds-assets.png">
@@ -67,7 +67,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="coming-soon.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/unlisted.png">
@@ -79,7 +79,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="secondary-transaction.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/sec-market.png">
@@ -109,7 +109,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Resources</h3>
-                                                            <a href="">
+                                                            <a href="insights.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/funds-assets.png">
@@ -122,7 +122,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="faq.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/faqs.png">
@@ -133,7 +133,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="privacy-policy.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/privacy-lock.png">
@@ -152,7 +152,7 @@
                                     </div>
                                 </li>
                                 <li><a href="contact.php">Contact Us</a></li>
-                                <li class="login-btn"><a href="">Login</a></li>
+                                <li class="login-btn"><a href="login.php">Login</a></li>
                             </ul>  
                         </div>
                     </div>
@@ -160,4 +160,4 @@
             </div>
         </div>
     </nav>
-</div
+</div>

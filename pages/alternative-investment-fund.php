@@ -170,7 +170,7 @@
                         <img src="../assets/image/cate-one.svg">
                     </div>
                     <div class="btn">
-                        <a href="#">View Category Details</a>
+                        <a href="category-one.php">View Category Details</a>
                     </div>
                 </div>
                 <div class="cate-card">
@@ -179,7 +179,7 @@
                         <img src="../assets/image/cate-two.png">
                     </div>
                     <div class="btn">
-                        <a href="#">View Category Details</a>
+                        <a href="category-two.php">View Category Details</a>
                     </div>
                 </div>
                 <div class="cate-card">
@@ -188,7 +188,7 @@
                         <img src="../assets/image/cate-three.png">
                     </div>
                     <div class="btn">
-                        <a href="#">View Category Details</a>
+                        <a href="category-three.php">View Category Details</a>
                     </div>
                 </div>
             </div>
