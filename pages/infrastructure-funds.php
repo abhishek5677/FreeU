@@ -57,7 +57,7 @@
                 <p class="disclaimer text-center mt-4">Source: IBEF and Mordor Intelligence</p>
             </div>
         </div>
-        <div class="growth">
+        <div class="amount-tabs">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <p>The infrastructure sector stands as a pivotal force in propelling the Indian economy, playing an essential role in the nation's comprehensive economic growth and development. It is poised to significantly contribute to India's ambition of reaching a <strong>USD 5-trillion economy.</strong> </p>

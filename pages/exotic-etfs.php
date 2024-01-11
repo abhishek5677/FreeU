@@ -1,18 +1,16 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "exotic-etfs" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="exotic-etfs-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
-                        <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h2>Exotic ETFs</h2>
+                        <h4>Exploring Niche Markets with Innovative ETFs</h4>
+                        <p>Exotic ETFs offer investors a gateway to niche and <br> often unconventional market segments, ranging<br> from emerging technologies to specific geographic<br> regions. These Exchange-Traded Funds are designed<br> for investors looking to diversify their portfolios with<br> unique and sometimes high-risk, high-reward<br> investment themes.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -24,9 +22,8 @@
                         <div class="profile d-flex">
                             <img src="../assets/image/profile-banner.svg">
                             <div>
-                                <p>Expected IRR (p.a.): More than 12%</p>
-                                <p>Suggested Horizon: More than 4 Years</p>
-                                <p>Minimum Investment: as per SEBI: ₹ 1,00,00,000</p>
+                                <p>Expected IRR(p.a.): More than 10%</p>
+                                <p>Suggested Horizon: More than 3 Years</p>
                             </div>
                         </div>
                      </div>
@@ -42,26 +39,25 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What do Exotic ETFs do?</h3>
+                    <p>Exotic ETFs are Exchange-Traded Funds that focus on <br>unique, often unconventional investment themes or<br> market segments. These can include frontier markets,<br> rare commodities, specific industrial sectors, or<br> innovative technologies. Exotic ETFs provide a structured,<br> tradable way to gain exposure to these specialized<br> markets.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Exotic ETFs?</h3>
+                    <p>Investing in Exotic ETFs can be an exciting way to explore <br> new investment frontiers and capitalize on emerging trends <br>or untapped markets. These funds offer the potential for <br> high returns by tapping into rapid growth sectors or regions,  <br>while the ETF structure provides liquidity and ease of <br> trading.</p>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
-                </div>
+                <h4>Global Allocations</h4>
+                <img class="w-100 mb-2" src="../assets/image/global-allocation.png">
+                <p class="mb-0"><strong>Index data has been sourced from investing.com</strong></p>
+                <p><strong>Returns as of December 30, 2022</strong></p>
             </div>
         </div>
     </div>
     <div class="container mt-5  mb-5">
         <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+            <img src="../assets/image/Portfolio.svg">
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +71,20 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Access to Niche Markets: </strong> Opportunity to invest in specific, often hard-to-access markets and themes.</li>
+                        <li><strong>Portfolio Diversification:</strong>Adds unique elements to a portfolio, potentially reducing overall risk.</li>
+                        <li><strong>Innovation Exposure:</strong> Direct exposure to cutting-edge technologies or emerging market trends.</li>
+                        <li><strong>Liquidity and Flexibility: </strong> The tradable nature of ETFs allows for liquidity and ease of entry/exit.</li>
+                        <li><strong>Transparency: </strong> Regular disclosure of holdings provides clear insight into fund composition.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>High Volatility:</strong> Exotic ETFs can be subject to high market volatility and rapid value changes.</li>
+                        <li><strong>Market Risks:</strong>  Specific niche markets may be more susceptible to market downturns or geopolitical events.</li>
+                        <li><strong>Liquidity Concerns: </strong> While ETFs are generally liquid, some exotic ETFs may have lower trading volumes, impacting liquidity.</li>
+                        <li><strong>Concentration Risk:</strong> High concentration in a specific sector or theme can lead to increased risk.</li>
+                        <li><strong>Emerging Market Risks:</strong> Exposure to emerging markets may bring additional risks such as political instability and currency fluctuations.</li>
                     </ul>
                 </div>
             </div> 

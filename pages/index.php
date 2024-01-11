@@ -6,7 +6,7 @@
     <div class="main-banner">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 aos-init aos-animate" data-aos="fade-right">
                     <div class="banner-left-content mt-4">
                         <div class="wealth mb-4">
                             <h2 class="fell-font mb-4">Redefining wealth <br> with Alternatives</h2>
@@ -23,7 +23,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <a href="./invest.php">
-                                    <div class="banner-card">
+                                    <div class="banner-card aos-init aos-animate" data-aos="fade-up">
                                         <div class="investor d-flex align-items-center">
                                             <img src="../assets/image/group-one.svg">
                                             <h6 class="mb-0">For Investors</h6>
@@ -37,7 +37,7 @@
                             </div>
                             <div class="col-md-6 for-invest">
                                 <a href="./asset-managers.php">
-                                    <div class="banner-card">
+                                    <div class="banner-card aos-init aos-animate" data-aos="fade-up">
                                         <div class="investor d-flex align-items-center">
                                             <img src="../assets/image/group-two.svg">
                                             <h6 class="mb-0">For Asset Managers</h6>
@@ -53,7 +53,7 @@
                             </div>
                             <div class="col-md-6 for-invest">
                                 <a href="./intermediaries.php">
-                                    <div class="banner-card">
+                                    <div class="banner-card aos-init aos-animate" data-aos="fade-up">
                                         <div class="investor d-flex align-items-center">
                                             <img src="../assets/image/group-three.png">
                                             <h6 class="mb-0">For Intermediaries</h6>
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 bridge-img">
+                <div class="col-md-6 bridge-img aos-init aos-animate" data-aos="fade-right">
                     <img src="../assets/image/bg-banner.svg">
                 </div>
             </div>
@@ -75,54 +75,46 @@
     </div>
 </div>
 
-<div class="market-size">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-12">
-                <div class="global-sec">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <h5>$13Tn+</h5>
-                        </div>
-                        <div class="col-md-8">
-                            <p>Market Size of Global Alternative Assets</p>
-                        </div>
+<div class="why-jericho">
+    <div class="blue-bar">
+        <div class="container row">
+            <div class="col-md-3 bluebr aos-init aos-animate" data-aos="fade-up">
+                <div class="row">
+                    <div class="col-md-5 bluebr-circle">
+                        <h2>$13Tn+</h2>
+                    </div>
+                    <div class="col-md-7 bluebr-txt">
+                        <h3>Market Size of Global Alternative Assets</h3>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
-                <div class="global-sec">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <h5>9%<br> CAGR</h5>
-                        </div>
-                        <div class="col-md-8">
-                            <p>Annual Growth Rate of Global Alternative Assets</p>
-                        </div>
+            <div class="col-md-3 bluebr aos-init aos-animate" data-aos="fade-up">
+                <div class="row">
+                    <div class="col-md-5 bluebr-circle">
+                        <h2>9% CAGR</h2>
+                    </div>
+                    <div class="col-md-7 bluebr-txt">
+                        <h3>Annual Growth Rate of Global Alternative Assets</h3>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
-                <div class="global-sec">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <h5>$100<br> Bn</h5>
-                        </div>
-                        <div class="col-md-8">
-                            <p>Size of Alternative Investment Funds (AUM) in India</p>
-                        </div>
+            <div class="col-md-3 bluebr aos-init aos-animate" data-aos="fade-up">
+                <div class="row">
+                    <div class="col-md-5 bluebr-circle">
+                        <h2>$100 Bn</h2>
+                    </div>
+                    <div class="col-md-7 bluebr-txt">
+                        <h3>Size of Alternative Investment Funds (AUM) in India</h3>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-12">
-                <div class="global-sec">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <h5>50%<br> CAGR</h5>
-                        </div>
-                        <div class="col-md-8">
-                            <p>Annual growth rate of AIF AUM in India</p>
-                        </div>
+            <div class="col-md-3 bluebr aos-init aos-animate" data-aos="fade-up">
+                <div class="row">
+                    <div class="col-md-5 bluebr-circle">
+                        <h2>50% CAGR</h2>
+                    </div>
+                    <div class="col-md-7 bluebr-txt">
+                        <h3>Annual growth rate of AIF AUM in India</h3>
                     </div>
                 </div>
             </div>
@@ -133,7 +125,7 @@
 <div class="alternative">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 aos-init aos-animate" data-aos="fade-right">
                 <h2>WHY ALTERNATIVE ASSETS</h2>
                 <p>Create an All-Weather portfolio<br> using Alternative Assets</p>
                 <ul>
@@ -142,8 +134,8 @@
                     <li>Enhance your Portfolio Diversification</li>
                     <li>Access Unique Investment Opportunities</li>
                 </ul>
-            </div>
-            <div class="col-md-6 col-sm-12">
+            </div> 
+            <div class="col-md-6 col-sm-12 aos-init aos-animate" data-aos="fade-left">
                 <img src="../assets/image/alter-graph.png">
                 <div class="dropdown-tooltip">
                     <a class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
@@ -168,12 +160,12 @@
 
 <div class="alter-assets">
     <div class="container">
-        <h2>Alternative Assets: The fastest growing Asset Class by AUM</h2>
+        <h2 class="aos-init aos-animate" data-aos="fade-right">Alternative Assets: The fastest growing Asset Class by AUM</h2>
         <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 aos-init aos-animate" data-aos="fade-right">
                 <img src="../assets/image/assets-one.png">
             </div>
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 aos-init aos-animate" data-aos="fade-left">
                 <img src="../assets/image/assets-two.png">
             </div>
         </div>
@@ -183,11 +175,11 @@
 <div class="popular-assets">
     <div class="container">
         <div class="bg-brown-head mb-4">
-            <h3>Popular Assets</h3>
+            <h3 class="aos-init aos-animate" data-aos="fade-right">Popular Assets</h3>
         </div>
         <h4 class="inner-title">Primary Markets</h4>
         <div class="parimay-card mt-4 mb-5">
-            <div class="assets-card">
+            <div class="assets-card aos-init aos-animate" data-aos="fade-up">
                 <div class="card-logo">
                     <img src="../assets/image/global.png">
                 </div>
@@ -209,7 +201,7 @@
                         Nuclear Components Total Return Index.</p>
                 </div>
             </div>
-            <div class="assets-card">
+            <div class="assets-card aos-init aos-animate" data-aos="fade-up">
                 <div class="card-logo bg-blue">
                     <img src="../assets/image/utm-lab.png">
                 </div>
@@ -232,7 +224,7 @@
                         investors’ portfolios </p>
                 </div>
             </div>
-            <div class="assets-card">
+            <div class="assets-card aos-init aos-animate" data-aos="fade-up">
                 <div class="card-logo bg-white">
                     <img src="../assets/image/bay.png">
                 </div>
@@ -257,7 +249,7 @@
         </div>
         <h4 class="inner-title">Primary Markets</h4>
         <div class="parimay-card mt-4">
-            <div class="assets-card">
+            <div class="assets-card aos-init aos-animate" data-aos="fade-up">
                 <div class="card-logo">
                     <img src="../assets/image/global.png">
                 </div>
@@ -283,7 +275,7 @@
                         Nuclear Components Total Return Index.</p>
                 </div>
             </div>
-            <div class="assets-card">
+            <div class="assets-card aos-init aos-animate" data-aos="fade-up">
                 <div class="card-logo bg-blue">
                     <img src="../assets/image/utm-lab.png">
                 </div>
@@ -317,12 +309,12 @@
 <div class="explore-assets">
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-md-5">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-right">
                 <div class="bg-brown-head mb-4">
                     <h3>Explore Assets</h3>
                     <p>ASSET CLASSES</p>
+                    <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 </div>
-                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 <p class="sub-heading">Asset type</p>
                 <div class="d-flex gap-3 btn-group">
                     <button class="active">Financial <br> Assets</button>
@@ -330,7 +322,7 @@
                 </div>
                 <p class="sub-heading">Geographic Focus</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="active"><img src="../assets/image/india-map-country.svg" alt="">India</button>
                     <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
                 </div>
                 <p class="sub-heading">Investment Type</p>
@@ -345,78 +337,78 @@
                     <button class="inactive">Hybrid</button>
                 </div>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-left">
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card-info">
                                 <img src="../assets/login-img/alternative.svg" alt="">
-                                <p class="mb-0">Alternative <br> Investment Funds</p>
+                                <p class="mb-0">Alternative Investment Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
-                                <p class="mb-0">Distressed Asset <br> Funds</p>
+                                <img src="../assets/image/assets-funds.svg">
+                                <p class="mb-0">Distressed Asset Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info">
                                 <img src="../assets/login-img/private.svg" alt="">
-                                <p class="mb-0">Private Real Estate <br> Funds</p>
+                                <p class="mb-0">Private Real Estate Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
-                                <p class="mb-0">Fractional Commercial <br> Real Estate</p>
+                                <img src="../assets/image/fract-state.svg" alt="">
+                                <p class="mb-0">Fractional Commercial Real Estate</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
-                                <p class="mb-0">Long-Only Equity <br> Funds</p>
+                                <img src="../assets/image/bay-arrow.svg">
+                                <p class="mb-0">Long-Only Equity Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/Infr-funds.svg">
                                 <p class="mb-0">Infrastructure Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/capital-funds.svg">
                                 <p class="mb-0">Venture Capital <br> Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/cradit-funds.svg">
                                 <p class="mb-0">Private Credit <br> Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/equity-funds.svg">
                                 <p class="mb-0">Private Equity <br> Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/angel-funds.svg">
                                 <p class="mb-0">Angel Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info mb-0">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/stra-fund.svg">
                                 <p class="mb-0">Hedge Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info mb-0">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/pipe-funds.svg">
                                 <p class="mb-0">PIPE Funds</p>
                             </div>
                         </div>
@@ -430,12 +422,12 @@
 <div class="explore-assets">
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-md-5">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-right">
                 <div class="bg-brown-head mb-4">
                     <h3>Explore Assets</h3>
                     <p>ASSET CLASSES</p>
+                    <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 </div>
-                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 <p class="sub-heading">Asset type</p>
                 <div class="d-flex gap-3 btn-group">
                     <button class="active">Financial <br> Assets</button>
@@ -443,11 +435,11 @@
                 </div>
                 <p class="sub-heading">Geographic Focus</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="active"><img src="../assets/image/india-map-country.svg" alt="">India</button>
                     <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-left">
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
@@ -464,7 +456,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/resi-real-state.svg" alt="">
                                 <p class="mb-0">Residential Real Estate</p>
                             </div>
                         </div>
@@ -476,7 +468,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/comm-real-state.svg" alt="">
                                 <p class="mb-0">Commercial Real Estate</p>
                             </div>
                         </div>
@@ -496,12 +488,12 @@
 <div class="explore-assets">
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-md-5">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-right">
                 <div class="bg-brown-head mb-4">
                     <h3>Explore Assets</h3>
                     <p>ASSET CLASSES</p>
+                    <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 </div>
-                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 <p class="sub-heading">Asset type</p>
                 <div class="d-flex gap-3 btn-group">
                     <button class="active">Financial <br> Assets</button>
@@ -509,7 +501,7 @@
                 </div>
                 <p class="sub-heading">Geographic Focus</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="active"><img src="../assets/image/india-map-country.svg" alt="">India</button>
                     <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
                 </div>
                 <p class="sub-heading">Investment Type</p>
@@ -524,24 +516,24 @@
                     <button class="inactive">Hybrid</button>
                 </div>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-left">
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
+                                 <img src="../assets/image/stra-fund.svg">
                                 <p class="mb-0">Hedge Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <img src="../assets/image/fract-state.svg" alt="">
                                 <p class="mb-0">Real Estate Investment Trust (REITs)</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/cradit-funds.svg">
                                 <p class="mb-0">Private Credit Funds</p>
                             </div>
                         </div>
@@ -553,13 +545,13 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/equity-funds.svg">
                                 <p class="mb-0">Private Equity Funds</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/capital-funds.svg">
                                 <p class="mb-0">Venture Capital Funds</p>
                             </div>
                         </div>
@@ -574,12 +566,12 @@
 <div class="explore-assets">
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-md-5">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-right">
                 <div class="bg-brown-head mb-4">
                     <h3>Explore Assets</h3>
                     <p>ASSET CLASSES</p>
+                    <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 </div>
-                <h4>Build a Portfolio of exotic<br> assets tailored to your needs.</h4>
                 <p class="sub-heading">Asset type</p>
                 <div class="d-flex gap-3 btn-group">
                     <button class="active">Financial <br> Assets</button>
@@ -587,7 +579,7 @@
                 </div>
                 <p class="sub-heading">Geographic Focus</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active"><img src="../assets/login-img/india-map.svg" alt="">India</button>
+                    <button class="active"><img src="../assets/image/india-map-country.svg" alt="">India</button>
                     <button class="inactive"><img src="../assets/login-img/global-map.png" alt="">Global</button>
                 </div>
                 <p class="sub-heading">Investment Type</p>
@@ -602,12 +594,12 @@
                     <button class="inactive">Hybrid</button>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 aos-init aos-animate" data-aos="fade-left">
                 <div class="card-container">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/alternative.svg" alt="">
+                                <img src="../assets/image/angel-investing.svg" alt="">
                                 <p class="mb-0">Angel Investing</p>
                             </div>
                         </div>
@@ -618,7 +610,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/bay-arrow.svg">
                                 <p class="mb-0">Growth Capital</p>
                             </div>
                         </div>
@@ -629,7 +621,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/doller-fainace.svg" alt="">
                                 <p class="mb-0">Mezzanine Financing</p>
                             </div>
                         </div>
@@ -640,7 +632,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/cradit-funds.svg">
                                 <p class="mb-0">Private Credit</p>
                             </div>
                         </div>
@@ -652,7 +644,7 @@
                         </p>
                         <div class="col-md-6">
                             <div class="card-info ">
-                                <img src="../assets/login-img/private.svg" alt="">
+                                <img src="../assets/image/equity-funds.svg">
                                 <p class="mb-0">Private Equity</p>
                             </div>
                         </div>

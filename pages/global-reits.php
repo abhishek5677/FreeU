@@ -1,18 +1,16 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "global-reits" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="global-reits-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
-                        <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h2>Global REITs</h2>
+                        <h4>Diversifying Globally with Real Estate Investments</h4>
+                        <p>Global Real Estate Investment Trusts (REITs) offer  <br> investors an opportunity to diversify their portfolios<br> through investments in real estate assets across the<br> world. These trusts pool investor capital to purchase,<br> manage, and finance real estate properties, providing <br>exposure to a range of international real estate<br> markets.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -24,9 +22,8 @@
                         <div class="profile d-flex">
                             <img src="../assets/image/profile-banner.svg">
                             <div>
-                                <p>Expected IRR (p.a.): More than 12%</p>
-                                <p>Suggested Horizon: More than 4 Years</p>
-                                <p>Minimum Investment: as per SEBI: ₹ 1,00,00,000</p>
+                                <p>Expected IRR(p.a.): More than 10%</p>
+                                <p>Suggested Horizon: More than 3 Years</p>
                             </div>
                         </div>
                      </div>
@@ -42,26 +39,32 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What do Global REITs do?</h3>
+                    <p>Global REITs are investment vehicles that invest in real <br> estate properties and mortgages across various countries.<br> They operate similarly to mutual funds, allowing <br>individuals to invest in portfolios of large-scale properties<br> like shopping malls, office buildings, apartments, and<br> hotels. REITs typically offer investors regular income<br> streams, transparency, and liquidity.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Global REITs?</h3>
+                    <p>Investing in Global REITs allows for portfolio diversification<br> beyond local real estate markets and exposure to the global<br> real estate sector. These investments can provide a balance of<br> income and growth, benefiting from different real estate<br> cycles and economic conditions in various countries.</p>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
-                </div>
+                <img class="w-100 mt-5" src="../assets/image/Market-Captial.svg">
             </div>
         </div>
     </div>
     <div class="container mt-5  mb-5">
         <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+            <div class="row">
+                <div class="col-md-7">
+                    <img src="../assets/image/Global-RIETs.svg">
+                    <p><strong>Globally there are a total of 893 listed REITs with a combined equity market capitalization of approximately $1.9 trillion(1) and have grown from 120 listed REITs 30 years ago to 893 listed REITs in more than 40 countries.</strong></p>
+                </div>
+                <div class="col-md-5">
+                    <img src="../assets/image/Assets-Classes.svg">
+                    <p class="mt-4"><strong>Global and US REITs have outperformed US equities, global equities, global bonds, and commodities in the last 20 years</strong></p>
+                    <p>Source: CBRE Investment Management as of 31-Dec-2021. Global REITs: FTSE EPRA Nareit Developed Index; U.S. Equities: S&P 500 Index (Robert Shiller and Yahoo Finance); Global Equities: MSCI EAFE Index; Commodities: Bloomberg Commodity Index; High Yield Bonds: Bloomberg Global High Yield; Emerging Markets: MSCI Emerging Markets Index; Inflation: CPI is as of 30-Nov-2021.</p>
+                </div>
+            </div>
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +78,20 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Global Diversification: </strong> Exposure to a wide range of international real estate markets.</li>
+                        <li><strong>Regular Income:  </strong>  Potential for steady income through dividends, typically from rental income.</li>
+                        <li><strong>Growth Opportunities: </strong>Capital appreciation potential from property value increases in diverse markets.</li>
+                        <li><strong>Liquidity: </strong> Higher liquidity compared to direct real estate investments, as REITs are traded on major stock exchanges.</li>
+                        <li><strong>Professional Management:</strong> Managed by experienced professionals specializing in global real estate markets.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>Market Volatility:</strong> Subject to real estate market fluctuations and economic conditions in different regions.</li>
+                        <li><strong>Currency Risk:</strong>  Exposure to currency fluctuations affecting returns for investors investing in their local currency.</li>
+                        <li><strong>Interest Rate Sensitivity: </strong>REITs can be sensitive to changes in interest rates, impacting borrowing costs and investment values.</li>
+                        <li><strong>Geopolitical Risks:</strong> Potential impact from geopolitical events and changes in regulations in different countries.</li>
+                        <li><strong>Diversification Limits: </strong> While diversified, still subject to the risks inherent in the real estate sector.</li>
                     </ul>
                 </div>
             </div> 

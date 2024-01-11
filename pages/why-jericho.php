@@ -1,6 +1,6 @@
-<?php $currentPage = "" ?>
-<?php include '../component/header.php'; ?>
+<?php $currentPage = "why-jericho" ?>
 <?php include '../component/header_link.php'; ?>
+<?php include '../component/header.php'; ?>
 
 <div class="why-jericho">
     <div class="banner">

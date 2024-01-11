@@ -1,5 +1,74 @@
 <div class="header-menu" id="masthead">
-    <nav class="menubar navbar-expand-lg d-flex align-items-center">
+    <div class="topbar">
+    <div class="container">
+      <div class="tobr">
+        <div class="social-head">
+          <a href="tel:9988776655">
+            <img src="../assets/image/call-icon.png">
+            9988776655
+          </a>
+          <a href="mailto:info@freeu.com">
+            <img src="../assets/image/mail-icon.png">
+            info@freeu.com
+          </a>
+        </div>
+        <div class="ctn-btn social_icon">
+            <a class="cont" href="#">Contact Us</a>
+            <li class="nav-item ">
+                <a class="nav-link" title="Customer Support" href="./customer-support.php">
+                    <img src="https://staging.freeu.in/public/assets/media/FrontendImages/msg.png">  
+                </a>
+            </li>
+            <li class="nav-item notification-drop">
+                <div class="item-noti">
+                    <a class="nav-link">
+                        <img src="https://staging.freeu.in/public/assets/media/FrontendImages/notify.png">
+                        <span class="circle">24</span>
+                    </a>
+                    <div class="notification" aria-labelledby="navbarDropdownMenuLink">
+                        <div class="notify-header container">
+                            <h5>Notifications</h5>
+                        </div>
+                        <div class="notify-filter mb-3">
+                            <a href="javascript:void(0)" onclick="markAsRead()" class="btn-two m-4" style="color:#143c6d">Mark all as read</a>
+                        </div>
+                        <ul>
+                            <li class="item list-item odd">
+                                 Congratulations, Your investment(HDFC AMC Select AIF FOF – I) has been assigned to Non-Featured section!
+                                <p class="mb-0"><strong>5 hours ago</strong></p>
+                            </li>
+                            <li class="item list-item even">
+                                Congratulations, Your investment(Cheryl Donovan) has been assigned to Non-Featured section!
+                                <p class="mb-0"><strong>1 week ago</strong></p>
+                            </li>
+                            <li class="item list-item odd">
+                                 Congratulations, Your investment(HDFC AMC Select AIF FOF – I) has been assigned to Non-Featured section!
+                                <p class="mb-0"><strong>4 hours ago</strong></p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown profile-hd">
+                <div class="dropdown">
+                    <a class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <img src="https://staging.freeu.in/public/uploads/profile/img/1701082662.jpg">
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" x-placement="bottom-start" style="position: absolute; transform: translate3d(0px, 34px, 0px); top: 0px; left: 0px; will-change: transform;">
+                        <a class="dropdown-item"><img class="profile-icon" src="https://staging.freeu.in/public/uploads/profile/img/1701082662.jpg">Shubham shettys</a>
+                        <a class="dropdown-item" href="https://staging.freeu.in/kyc">KYC</a>
+                        <a class="dropdown-item" href="https://staging.freeu.in/investor-profile">My Profile</a>
+                        <a class="dropdown-item" href="./security.php">Security</a>
+                        <a class="dropdown-item" href="https://staging.freeu.in/profile-dashboard">Dashboard</a>
+                        <a class="dropdown-item" data-toggle="modal" data-target="#logout-modal">Logout</a>
+                    </div>
+                </div>  
+            </li>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="menubar navbar-expand-lg d-flex align-items-center">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-12">
@@ -159,5 +228,5 @@
                 </div>
             </div>
         </div>
-    </nav>
-</div
+    </div>
+</div>

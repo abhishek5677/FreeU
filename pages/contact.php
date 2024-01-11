@@ -1,6 +1,6 @@
 <?php $currentPage = "register" ?>
-<?php include '../component/header.php'; ?>
 <?php include '../component/header_link.php'; ?>
+<?php include '../component/header.php'; ?>
 
 <div class="banner contact privacy">
     <div class="container ">
@@ -33,13 +33,13 @@
             <div class="col-md-9 blue-box aos-init aos-animate" data-aos="fade-up">
                 <div class="row">
                     <div class="col-md-6 right aos-init" data-aos="fade-right">
-                        <h3>GET IN <br>TOUCH</h3>
+                        <h3>GET IN TOUCH</h3>
                         <h4>FreeU - Your gateway to alternative investment opportunities</h4>
                         <p>Invest with confidence. Start a <br> conversation with our experts!</p>
                     </div>
                     <div class="col-md-6 left aos-init " data-aos="fade-left">
                         <div class="form-tab contact-form">
-                            <ul id="myTabs" class="nav nav-pills nav-justified d-flex justify-content-around mb-2"
+                            <ul id="myTabs" class="nav nav-pills nav-justified d-flex justify-content-around mb-4"
                                 role="tablist" data-tabs="tabs">
                                 <li class="active">
                                     <a class="active" id="investor-tab" data-bs-toggle="tab"
