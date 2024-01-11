@@ -56,10 +56,10 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" x-placement="bottom-start" style="position: absolute; transform: translate3d(0px, 34px, 0px); top: 0px; left: 0px; will-change: transform;">
                         <a class="dropdown-item"><img class="profile-icon" src="https://staging.freeu.in/public/uploads/profile/img/1701082662.jpg">Shubham shettys</a>
-                        <a class="dropdown-item" href="https://staging.freeu.in/kyc">KYC</a>
-                        <a class="dropdown-item" href="https://staging.freeu.in/investor-profile">My Profile</a>
-                        <a class="dropdown-item" href="./security.php">Security</a>
-                        <a class="dropdown-item" href="https://staging.freeu.in/profile-dashboard">Dashboard</a>
+                        <a class="dropdown-item" href="kyc.php">KYC</a>
+                        <a class="dropdown-item" href="investor-profile.php">My Profile</a>
+                        <a class="dropdown-item" href="security.php">Security</a>
+                        <a class="dropdown-item" href="dashboard.php">Dashboard</a>
                         <a class="dropdown-item" data-toggle="modal" data-target="#logout-modal">Logout</a>
                     </div>
                 </div>  
@@ -94,7 +94,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Our Solution</h3>
-                                                            <a href="">
+                                                            <a href="how-it-works.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/setting.png">
@@ -106,7 +106,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="platform-features.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/platform.png">
@@ -124,7 +124,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Products</h3>
-                                                            <a href="">
+                                                            <a href="primary-investment.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/funds-assets.png">
@@ -136,7 +136,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="coming-soon.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/unlisted.png">
@@ -148,7 +148,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="secondary-transaction.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/sec-market.png">
@@ -178,7 +178,7 @@
                                                     <div class="col-md-4">
                                                         <div class="product">
                                                             <h3>Resources</h3>
-                                                            <a href="">
+                                                            <a href="insights.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/funds-assets.png">
@@ -191,7 +191,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="faq.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/faqs.png">
@@ -202,7 +202,7 @@
                                                                     </div>
                                                                 </div>
                                                             </a>
-                                                            <a href="">
+                                                            <a href="privacy-policy.php">
                                                                 <div class="drop-page">
                                                                     <div class="drop-img">
                                                                         <img src="../assets/image/privacy-lock.png">
@@ -221,7 +221,7 @@
                                     </div>
                                 </li>
                                 <li><a href="contact.php">Contact Us</a></li>
-                                <li class="login-btn"><a href="">Login</a></li>
+                                <li class="login-btn"><a href="login.php">Login</a></li>
                             </ul>  
                         </div>
                     </div>

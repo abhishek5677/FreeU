@@ -1824,6 +1824,12 @@ li.item.list-item:nth-child(even) {
     border-radius: 50px;
 }   
 
+.sentchat-icon .contact-details img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
 /* css added by abhishek */
 
 .login {
@@ -2967,6 +2973,10 @@ input:focus {
     align-items: center;
 }
 
+.card-container a {
+    color: #C18948 !important;
+}
+
 .card-container .card-info p {
     font-size: 16px;
     line-height: 1.3;
@@ -2999,4 +3009,540 @@ input:focus {
     color: #1B243D;
     font-size: 24px;
     line-height: 1.2;
+}
+
+.dashboard .heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #efeae5;
+    padding: 50px 0;
+    gap: 20px;
+}
+
+.dashboard .heading h1 {
+    font-weight: 600;
+    font-family: 'IM FELL English';
+    font-size: 37px;
+}
+
+.dashboard .heading p {
+    text-align: center;
+    font-family: "Cambria";
+    font-size: 18px;
+    color: #000;
+    line-height: 1.4;
+}
+
+.dashboard .heading img {
+    height: 200px;
+    width: 100%;
+}
+
+.dashboard .dashboard-form ul#dashboard-tab {
+    background-color: #c18948;
+    padding: 15px 0;
+    align-items: center;
+    justify-content: center;
+    gap: 15%;
+}
+
+
+.dashboard .dashboard-form .nav-pills a {
+    color: #fff;
+    font-size: 25px;
+    width: 100%;
+    font-weight: 700;
+}
+
+.dashboard .dashboard-form li.active {
+    color: #1b243d !important;
+}
+
+.dashboard .dashboard-form .nav-pills li a.active {
+    border-bottom: 2px solid #1b243d;
+    color: #1b243d;
+}
+
+.dashboard .dashboard-form .personal-details {
+    background: #edd9c2;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 20px 0;
+}
+
+.dashboard .dashboard-form .personal-details h3 {
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.dashboard .dashboard-form .personal-details .details {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+}
+
+.dashboard .dashboard-form .personal-details .details i {
+    font-size: 25px;
+}
+
+.dashboard .dashboard-form .personal-details .details p {
+    margin: 0;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Cambria";
+}
+
+.dashboard .dashboard-form .invest-card {
+    background: #edd9c2;
+    border-radius: 12px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+.dashboard .dashboard-form p {
+    margin: 0;
+    font-family: "Cambria";
+}
+
+.dashboard .dashboard-form .invest-card .title {
+    font-weight: 600;
+}
+
+.dashboard .dashboard-form .table-heading {
+    font-weight: 600;
+    font-size: 21px;
+}
+
+/* .dashboard .dashboard-form #current-investment,
+.dashboard .dashboard-form #investment-redeemed {
+    font-family: "Cambria" !important;
+} */
+
+.dashboard .dashboard-form .custom-table thead tr th {
+    background: #1b243d;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    outline: 1px solid #fff;
+    font-size: 12px;
+    padding: 10px 10px;
+}
+
+.dashboard .dashboard-form .custom-table tbody tr td {
+    text-align: center;
+    line-height: 1.2;
+    font-size: 12px;
+    padding: 15px 10px;
+}
+
+.dashboard .dashboard-form .custom-table tbody tr td a {
+    color: #fff;
+    background: #1b243d;
+    padding: 5px 12px;
+    border-radius: 14px;
+}
+
+.investment-details .investment-details-bg {
+    padding: 50px 0;
+    background: #c18948;
+    /* font-family: "Cambria" !important; */
+}
+
+.investment-details .investment-details-banner {
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+}
+
+.investment-details .investment-details-banner .image {
+    background-color: #e8c69f;
+    height: 110px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+    border-radius: 8px;
+    border: 2px solid #1b243d;
+}
+
+.investment-details .investment-details-banner .image img {
+    width: 73px;
+    height: 21px;
+}
+
+.investment-details .investment-details-banner .content {
+    margin-left: 36px;
+}
+
+.investment-details .investment-details-banner .content h2 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.investment-details .investment-details-banner .content p {
+    margin-bottom: 8px;
+    font-size: 16px;
+    /* font-family: "Cambria"; */
+}
+
+.investment-details .investment-details-banner .content p span {
+    margin-right: 10px;
+}
+
+.investment-details .investment-details-banner .content img {
+    width: 84px;
+    background-color: #e8c69f;
+    padding: 11px 9px;
+    height: 34px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px #0000006e;
+    margin-right: 10px;
+}
+
+.investment-details .table-details {
+    background-color: #f9fafc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 5rem 0;
+}
+
+.investment-details .table-details .table-content {
+    width: 75%;
+    margin: auto;
+    padding: 50px 100px;
+    box-shadow: 0px 1px 9px 2px #6d6d6d47;
+    border-radius: 7px;
+    border-right: 5px solid #1b243d;
+    background-color: #f9fafcc4;
+}
+
+.investment-details .table-details .table-content tr {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 38px;
+}
+
+
+.market-list .banner {
+    padding: 50px 0;
+    background: #c18948;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.market-list .banner .content h1 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #000;
+}
+
+.market-list .banner ul {
+    padding-left: 34px;
+}
+
+.market-list .banner ul li {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+
+.market-list .banner .bgn-image img {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+}
+
+.market-list .form {
+    padding: 50px 0;
+}
+
+.market-list .form .row {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.market-list .form .form-group {
+    margin-bottom: 20px;
+}
+
+.market-list .form label {
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.market-list .form .form-group input {
+    font-size: 14px;
+    width: 100%;
+    height: 40px;
+    background: #F5F6F9;
+    border: 1px solid #D2D2D2;
+    color: #000;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.market-list .form .form-group input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.market-list .form .form-group select {
+    font-size: 14px;
+    width: 100%;
+    height: 40px;
+    background: #F5F6F9;
+    border: 1px solid #D2D2D2;
+    color: #000;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.market-list .form .declaration h5 {
+    font-weight: 600;
+}
+
+.market-list .form .declaration label {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.market-list .form button.blue-btn {
+    background: #113268;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.dashboard .dashboard-form #market-block {
+    margin-top: 10px;
+    padding: 15px 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5%;
+}
+
+.dashboard .dashboard-form #market-block a {
+    color: #8b8989;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.dashboard .dashboard-form #market-block li a.active {
+    border-bottom: 2px solid #1b243d;
+    color: #1b243d;
+}
+
+.dashboard .Latest_news {
+    padding: 50px 0;
+}
+
+.dashboard .Latest_news h2.news-txt {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.dashboard .Latest_news h2.news-txt::after {
+    position: absolute;
+    content: '';
+    border-bottom: 2px solid #000;
+    width: 31%;
+    bottom: -10px;
+    left: 0;
+    margin: 0 auto;
+}
+
+
+.investor-profile .investor-image {
+    width: 46%;
+    margin: 0 auto;
+}
+
+.investor-profile .invest-form h2 {
+    font-weight: bold;
+}
+
+.investor-profile .invest-form a {
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #c18948;
+}
+
+.investor-profile .invest-form a i {
+    color: #000;
+    margin-right: 5px;
+}
+
+.investor-profile .invest-form a span {
+    color: #000;
+}
+
+.investor-profile .invest-form .ip-header.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 0px;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.investor-profile .invest-form form {
+    padding: 35px 0;
+}
+
+.investor-profile .invest-form .iv-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.investor-profile .invest-form .iv-form label {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.investor-profile .invest-form .form-sec input {
+    padding: 2px;
+    border-radius: 0px;
+    box-sizing: border-box;
+    /* color: #9e9e9e; */
+    border: 1px solid #bdbdbd;
+    font-size: 16px;
+    letter-spacing: 1px;
+    height: 50px !important;
+}
+
+.investor-profile .invest-form textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #D2D2D2;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+}
+
+.investor-profile .invest-form .save {
+    background: #c28848;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+
+}
+
+.kyc .investor-image {
+    margin: 0 auto;
+}
+
+.kyc .investor-image img {
+    width: 35%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.kyc .acc-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 45px;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.kyc .acc-header h2 {
+    font-weight: bold;
+}
+
+.kyc .acc-header p {
+    color: #737373;
+}
+
+.kyc .add-acc {
+    border: none;
+    padding: 10px 28px;
+    border-radius: 4px;
+    background-color: #c18948;
+    color: #fff;
+}
+
+.kyc .add-acc:focus,
+.add-acc:active {
+    background-color: #c18948 !important;
+    box-shadow: none !important;
+    color: #fff;
+}
+
+.kyc .tab-form {
+    padding: 55px 30px;
+}
+
+.kyc .pi-details h2 {
+    color: #143C6D;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.kyc .pi-details h4{
+    font-weight: 600;
+}
+
+.kyc .pi-details p{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.kyc .form-sec label{
+    font-size: 17px;
+    color: #000;
+    margin-bottom: 5px;
+}
+
+.kyc .form-sec input{
+    border-radius: 0px;
+    box-sizing: border-box;
+    color: #9e9e9e;
+    border: 1px solid #bdbdbd;
+    font-size: 16px;
+    letter-spacing: 1px;
+    height: 50px !important;
+    background-color: #F5F6F9;
+    margin-bottom: 0px;
+}
+
+.kyc h5.info{
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.kyc button.next-button {
+    background: #c18948;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    min-width: 335px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    width: fit-content;
+    margin-left: auto !important;
+    margin-right: auto;
 }

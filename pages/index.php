@@ -430,8 +430,8 @@
                 </div>
                 <p class="sub-heading">Asset type</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active">Financial <br> Assets</button>
-                    <button class="inactive">Real <br> Assets</button>
+                    <button class="inactive">Financial <br> Assets</button>
+                    <button class="active">Real <br> Assets</button>
                 </div>
                 <p class="sub-heading">Geographic Focus</p>
                 <div class="d-flex gap-3 btn-group">
@@ -584,8 +584,8 @@
                 </div>
                 <p class="sub-heading">Investment Type</p>
                 <div class="d-flex gap-3 btn-group">
-                    <button class="active">Managed <br> Funds</button>
-                    <button class="inactive">Direct Investment <br> Opportunities</button>
+                    <button class="inactive">Managed <br> Funds</button>
+                    <button class="active">Direct Investment <br> Opportunities</button>
                 </div>
                 <p class="sub-heading">Investment Strategy</p>
                 <div class="d-flex gap-3 btn-group">
