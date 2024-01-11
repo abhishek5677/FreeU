@@ -9,7 +9,7 @@
                     <li><a href="faq.php">FAQ</a></li>
                     <li><a href="how-it-works.php">How it Works</a></li>
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                    <li><a href="why-jericho.php">Why Jericho?</a></li>
+                    <!-- <li><a href="why-jericho.php">Why Jericho?</a></li> -->
                     <li><a href="terms-and-condition.php">Terms & Conditions</a></li>
                     <li><a href="insights.php">Our Insights</a></li>
                     <li><a href="contact.php">Contact Us</a></li>

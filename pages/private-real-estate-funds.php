@@ -53,13 +53,14 @@
                 <div class="dist-fund">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                            <img src="../assets/image/Selecting-sourcing.svg">
+                            <img src="../assets/image/multifold-growth.svg">
                         </div>
                         <div class="col-md-6 col-sm-12">
-                            <img src="../assets/image/Private-Credit.svg">
+                            <img src="../assets/image/Real-estate-sector.svg">
                         </div>
+                        <h5 class="text-center mt-2">Source: Knight Frank</h5>
                         <div class="col-md-12 col-sm-12">
-                            <img src="../assets/image/Private-Credit.svg">
+                            <img src="../assets/image/Real-estate-inves.svg">
                         </div>
                     </div>
                 </div>
@@ -67,11 +68,8 @@
         </div>
     </div>
     <div class="container mt-5  mb-5">
-        <div class="amount-tabs">
-             <h3 class="text-center mb-4">Indian Real Estate Evolution through the last decade</h3>
-            <div class="amount-table text-center">
-                <img src="../assets/image/amount-table.svg">
-            </div>
+        <div class="annual">
+            <img src="../assets/image/Indian-Real-evolution.svg">
         </div>
     </div>
     <div class="banifit-tabs mt-4">

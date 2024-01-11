@@ -66,8 +66,9 @@
 
 .faq-ctn2 h2 {
     font-size: 35px;
-    font-weight: bold;
+    font-weight: 600;
     font-family: system-ui, 'Open sans';
+
 }
 
 .faq-ctn2 p {
@@ -109,7 +110,11 @@
     background: no-repeat;
     color: #000;
     font-size: 17px;
-    font-weight: bold;
+    font-weight: 500;
+    font-family: 'Poppins';
+}
+.faqs-content .accordion-body {
+    font-family: 'Poppins';
 }
 
 .accordion-button {
@@ -153,8 +158,9 @@ button.accordion-button.collapsed:focus {
 .faq-dropdown a {
     margin-bottom: 5px;
     padding: 10px 15px;
-    line-height: 2;
+    line-height: 12px;
     border-radius: 10px;
+    font-family: Alegreya Sans;
 }
 
 .faq-dropdown a:hover {

@@ -471,7 +471,7 @@
     <div class="taxation">
         <div class="container">
             <h2>Taxation of AIF</h2>
-            <p>ince the categories are different with different investment vehicles, the tax implications are also different for each of them. Let us see the tax implication for each of them</p>
+            <p>Since the categories are different with different investment vehicles, the tax implications are also different for each of them. Let us see the tax implication for each of them</p>
             <p>When it comes to taxation, <strong> Category I and II AIFs have a pass-through status.</strong> This means that any income (except for business income) that the fund generates, is taxed to the investor and not to the fund house - even if the investor has not redeemed the investment. The investors need to pay taxes according to their respective tax slabs. </p>
             <p>Therefore, if you invest in category I and II AIF, you need to pay capital gain tax on the profit or loss you make from the AIF funds within a given duration. The duration here is important to understand whether long-term capital gain tax or short-term capital gain tax would be applied. As per the recent rules for LTCG, 20% is the rate of tax with indexation benefit. If the profits are taxed as STCG, then the rate would be 15%. There is a surcharge, and cess charges on and above the mentioned tax rates as well. Any income (except business income) distributed by the investment fund is not liable for DDT and TDS of 10% will be deducted by the investment fund. It is to be noted that in Category I and II, the investor needs to pay advance tax during the year.</p>
             <table class="mt-4 mb-4 w-100">

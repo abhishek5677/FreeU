@@ -1,18 +1,16 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "private-credit-funds-two" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="private-credit-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
-                        <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h2>Private Credit Funds</h2>
+                        <h4>Innovative Lending: Your Pathway to Diverse Debt Investments.</h4>
+                        <p>Private Credit Funds offer investors an opportunity to engage<br>  in non-bank lending, providing debt capital to businesses not typically<br>  serviced by traditional financial institutions. This segment<br>  of the financial market presents a unique blend of potential<br>  returns and portfolio diversification, appealing to investors<br>  seeking  alternatives to conventional fixed-income assets.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -24,9 +22,8 @@
                         <div class="profile d-flex">
                             <img src="../assets/image/profile-banner.svg">
                             <div>
-                                <p>Expected IRR (p.a.): More than 12%</p>
-                                <p>Suggested Horizon: More than 4 Years</p>
-                                <p>Minimum Investment: as per SEBI: ₹ 1,00,00,000</p>
+                                <p>Expected IRR (p.a.): More than 8%</p>
+                                <p>Suggested Horizon: More than 3 Years</p>
                             </div>
                         </div>
                      </div>
@@ -42,26 +39,48 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What do Private Credit Funds do?</h3>
+                    <p>Private Credit Funds are investment vehicles that <br> specialize in providing debt financing to companies<br>  outside of traditional banking channels. These funds<br>  often target mid-sized companies, offering various debt<br>  structures such as direct loans, mezzanine financing,<br>  distressed debt, and more.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Private Credit Funds?</h3>
+                    <p>Investing in Private Credit Funds can offer higher yields<br>  compared to traditional fixed-income investments, with the<br>  added benefit of diversifying credit exposure. These funds<br>  play a critical role in financing businesses, often<br>  accompanied by detailed covenants and security provisions <br> that provide layers of protection for investors.</p>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
+                <div class="mb-4">
+                    <img class="w-100" src="../assets/image/Annual-returns.svg">
+                </div>
+                <div>
+                    <img class="w-100" src="../assets/image/Investor.svg">
                 </div>
             </div>
         </div>
     </div>
-    <div class="container mt-5  mb-5">
-        <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+    <div class="container">
+        <div class="amount-tabs mb-5 mt-5">
+            <div class="row">
+                <div class="col-md-7">
+                   <p><strong>Global Private Credit Market Trends</strong></p>
+                   <ul>
+                        <li>Private debt has firmly established its presence within the portfolios of many investors, providing a hedge against inflation and interest rate fluctuations, along with an attractive risk-return balance. The projections indicate that private debt will maintain its position as one of the fastest-growing alternative asset classes in the coming five years, with assets under management (AUM) forecasted to reach $2.3 trillion by December 2027, reflecting a compound annual growth rate (CAGR) of 10.8%. (Source: Prequin)</li>
+                        <li>The total Private markets assets under management (AUM) reached $11.7 tn as of June 30,2022. (Source: Mckinsey & Co.)</li>
+                        <li>Today, private credit represents more than 20% of the US market for below-investment-grade credit, up from 5% in the mid-2000s , and plays an important role in financing large transactions. (Source: Blackstone)</li>
+                        <li>The total capital raised by 137 private debt funds closed during the first three quarters of 2022 $172.1 bn  (Source: Prequin)</li>
+                   </ul>
+                </div>
+                <div class="col-md-5">
+                    <div class="more">
+                        <img class="w-100" src="../assets/image/More-Advisors.png">
+                        <p class="mb-1">Source: Blackstone - Advisor Trends in Private Markets 2023</p>
+                        <ul>
+                            <li>According to a recent survey conducted by Blackstone among top-ranked advisors, there has been a notable surge in the adoption of alternative investments. Specifically, 71% of advisors now allocate a portion of their clients' portfolios to alternatives, with allocations ranging from 6% to 20%.</li>
+                            <li>Furthermore, the survey revealed that 15% of these surveyed advisors allocate more than a fifth of their client portfolios to alternative investments, demonstrating consistency with the previous year's data.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +94,20 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Attractive Yields: </strong> Typically offer higher returns compared to traditional fixed-income securities.</li>
+                        <li><strong>Diversification:  </strong> Provides a means of diversification within a broader investment portfolio.</li>
+                        <li><strong>Credit Protection: </strong> Investments often come with protective covenants and collateral, offering a level of security.</li>
+                        <li><strong>Lower Volatility:</strong> Private credit markets can exhibit lower volatility compared to public equity and debt markets.</li>
+                        <li><strong>Supporting Business Growth:</strong> Contributes to the growth of mid-sized companies which might not have access to traditional bank financing.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>Credit Risk:</strong> The risk of default or non-payment by borrowers can be higher than in traditional lending.</li>
+                        <li><strong>Illiquidity:</strong> Private credit investments are typically illiquid with longer holding periods.</li>
+                        <li><strong>Interest Rate Risk:</strong> Susceptible to changes in interest rates, which can affect the value of debt investments.</li>
+                        <li><strong>Complex Structures:</strong> Private credit arrangements can be complex, requiring thorough due diligence and understanding.</li>
+                        <li><strong>Market Conditions:</strong> Economic downturns or adverse market conditions can impact the ability of borrowers to repay debt.</li>
                     </ul>
                 </div>
             </div> 

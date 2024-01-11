@@ -33,11 +33,12 @@ a {
 }
 
 p {
-    font-family: Alegreya sans;
+    font-family: 'Cambria';
 }
 
 body {
     overflow-x: hidden;
+    font-family: 'Cambria';
 }
 
 .header-menu .menubar {
@@ -51,7 +52,7 @@ body {
 
 .header-menu .page li a {
     color: #C18948;
-    font-size: 18px;
+    font-size: 20px;
     font-family: cambria;
 }
 
@@ -75,6 +76,7 @@ h2.fell-font {
 .main-banner .wealth li {
     color: #C18948;
     font-size: 18px;
+    font-family: 'Cambria';
 }
 
 .wealth ul {
@@ -128,6 +130,7 @@ h2.fell-font {
 .main-banner .banner-card p {
     font-size: 15px;
     color: #000;
+    font-family: 'Cambria';
 }
 
 .main-banner .bridge-img img {
@@ -158,11 +161,14 @@ h2.fell-font {
     margin-bottom: 0;
     justify-content: center;
     font-weight: 400;
+    font-family: cambria;
 }
 
 .market-size .global-sec p {
     margin-bottom: 0;
     padding: 10px 0;
+    font-family: cambria;
+    font-size: 18px;
 }
 
 .alternative h2 {
@@ -182,6 +188,8 @@ h2.fell-font {
 .alternative li {
     color: #E8C69F;
     line-height: 32px;
+    font-family: cambria;
+    font-size: 18px;
 }
 
 .alternative img {
@@ -290,13 +298,16 @@ h4.inner-title {
 .bg-brown-head p {
     color: #C18948;
     font-weight: 600;
-    margin-top: 12px;
+    margin-top: 19px;
     font-size: 15px;
+    font-family: cambria;
+    margin-bottom: 5px;
 }
 
 .explore-assets h4 {
     font-size: 26px;
     color: #C18948;
+    font-family: cambria;
 }
 
 .explore-assets {
@@ -390,6 +401,7 @@ h4.inner-title {
 
 .parimay-card .blur-md p {
     color: #C18948;
+    font-family: cambria;
     margin-bottom: 0;
 }
 
@@ -422,7 +434,8 @@ h4.inner-title {
 }
 
 .parimay-card .middle-sec img {
-    width: 24px;
+    width: 26px;
+    border-radius: 50px;
     margin-right: 4px;
 }
 
@@ -461,15 +474,18 @@ h4.inner-title {
     height: 57px;
     display: flex;
     align-items: center;
+    font-family: cambria;
 }
 
 .assets-card .dics h4 {
     font-size: 14px;
     font-weight: 600;
+    font-family: cambria;
 }
 
 .assets-card .dics p {
     font-size: 14px;
+    font-family: cambria;
 }
 
 .parimay-card .assets-card .dics {
@@ -709,7 +725,129 @@ input:focus {
     display: flex;
     align-items: center;
 }
+.pipe-funds {
+    background-image: url(../../assets/image/Pipe_Funds.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.hedge-funds-banner {
+    background-image: url(../../assets/image/Hedge-Funds.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.Long-Equity-Funds-banner {
+    background-image: url(../../assets/image/Long-Equity-Funds.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.venture-capital-funds {
+    background-image: url(../../assets/image/Venture-Capital-Funds.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.global-hedge-funds{
+    background-image: url(../../assets/image/Global-Hedge-Funds.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
 
+.global-reits-banner{
+    background-image: url(../../assets/image/Global-REIT.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.exotic-etfs-banner{
+    background-image: url(../../assets/image/Exotic-ETFS.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.industrial-estate-banner{
+    background-image: url(../../assets/image/Industrial-real-banner.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.commercial-estate-banner{
+    background-image: url(../../assets/image/Commercial-real-estate.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+.residential-estate-banner{
+    background-image: url(../../assets/image/Residential-real-estate.svg);
+    background-size: cover;
+    height: 390px;
+    display: flex;
+    align-items: center;
+}
+
+.pip-fund img {
+    width: 80%;
+}
+.fs-four li.brown-text {
+    color: #D19D60;
+    font-size: 14px;
+}
+.residential-graph h5 {
+    font-family: Alegreya sans;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+
+.fs-four li {
+    font-size: 14px;
+}
+.fs-four p.brown-text {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.amount-tabs .more li {
+    font-size: 12px;
+    font-style: italic;
+}
+.amount-tabs .more p {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.your-investment .pers h2 {
+    font-size: 40px;
+    color: #bf1111;
+    font-family: sans-serif;
+}
+.your-investment .pers p {
+    font-size: 14px;
+}
+.your-investment .pers {
+    margin-bottom: 38px;
+}
+.private-dept {
+    background-color: #E8C69F;
+    padding: 15px;
+    border-radius: 10px;
+}
+.your-investment .private-dept img {
+    width: 65%;
+}
 .banner-text-contain h2 {
     color: #FFBD59;
     font-size: 36px;
@@ -720,6 +858,7 @@ input:focus {
     color: #fff;
     font-size: 18px;
     margin-bottom: 0;
+    font-family: Alegreya sans;
 }
 
 .banner-text-contain h4 {
@@ -765,6 +904,7 @@ input:focus {
     font-size: 17px;
     margin-bottom: 0;
     color: #fff;
+    font-family: Alegreya sans;
 }
 
 .banner-profile .profile img {
@@ -789,8 +929,11 @@ input:focus {
 .your-investment h3 {
     font-size: 23px;
     margin-bottom: 2px;
+    font-family: Alegreya sans;
 }
-
+.your-investment p {
+    font-family: Alegreya sans;
+}
 .your-investment h2.invest-fund:after {
     content: '';
     position: absolute;
@@ -825,7 +968,7 @@ input:focus {
 h2.inner-heading {
     font-size: 25px;
     font-weight: 600;
-    font-family: Alegreya sans-serif;
+    font-family: Alegreya sans;
     margin-bottom: 26px;
 }
 
@@ -895,6 +1038,11 @@ h2.inner-heading {
     margin-bottom: 18px;
     font-size: 20px;
     font-weight: 600;
+    font-family: Alegreya sans;
+}
+
+.your-investment .categories li {
+    font-family: Alegreya sans;
 }
 
 .cate-card img {
@@ -950,6 +1098,8 @@ h2.cate-head {
     text-align: center;
     font-size: 25px;
     margin-bottom: 14px;
+    font-family: Alegreya sans;
+    font-weight: 400;
 }
 
 h3.bg-blue {
@@ -1018,6 +1168,10 @@ h3.bg-blue {
     font-size: 30px;
     font-weight: 400;
     margin-bottom: 15px;
+    font-family: Alegreya sans;
+}
+.your-investment li {
+    font-family: Alegreya sans;
 }
 
 .taxation tbody {
@@ -1120,6 +1274,9 @@ p.disclaimer {
 .invest-card .card-img img {
     width: 100%;
     border-radius: 18px;
+    padding: 10px 10px 0px 10px;
+    height: 160px;
+    object-fit: cover;
 }
 
 .invest-card h4 {
@@ -1300,7 +1457,7 @@ p.brown-text {
 
 .menubar .dropdown button.btns {
     color: #C18948;
-    font-size: 18px;
+    font-size:20px;
     font-family: cambria;
     background-color: transparent;
     border: none;
@@ -1351,7 +1508,322 @@ p.brown-text {
 .product .drop-page .drop-img {
     margin-right: 18px;
 }
+.amount-tab table td {
+    border: 1px solid #0009;
+    padding: 10px;
+}
+.amount-tab table th {
+    border: 1px solid #0009;
+    padding: 10px;
+    background-color: #333b52;
+    color: #fff;
+    font-weight: 400;
+}
+.header-menu .topbar {
+    display: flex;
+    background: #C18948;
+    height: 40px;
+    align-items: center;
+    line-height: 2;
+}
+.tobr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.topbar .tobr a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+.tobr img {
+    height: 20px;
+    width: 20px;
+    filter: brightness(0.1) invert(1);
+}
+.ctn-btn img {
+    filter: brightness(0.5) invert(1);
+    height: 19px;
+}
+.social_icon {
+    display: flex;
+    align-items: center;
+}
+.ctn-btn a.nav-link {
+    padding: 1px 11px;
+    margin: 0;
+}
+.ctn-btn li.nav-item {
+    list-style: none;
+}
+.nav-link img {
+    width: 20px;
+}
+.social_icon a {
+    font-family: Alegreya sans;
+}
+.social-head a {
+    margin:0px 10px;
+}
+.social-head a:nth-child(2) img {
+    width: 35px;
+    height: 35px;
+}
+.dropdown a.btn.dropdown-toggle:active {
+    border: none;
+    outline: none;
+}
+.ctn-btn .dropdown-toggle img {
+    filter: brightness(1) invert(0);
+    height: 30px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    width: 30px;
+}
+.topbar a.btn.dropdown-toggle {
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.topbar .profile-hd img {
+    filter: brightness(1) invert(0);
+    height: 30px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+}
+.topbar .tobr a.cont {
+    margin: 0px 14px;
+}
+.topbar .tobr .profile-hd a {
+    color: #000;
+}
+.tobr .dropdown-toggle::after {
+    color: #fff;
+}
 
+.security-form h2 {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+.security-text {
+    margin-bottom: 30px;
+}
+.security-text p {
+    color: #6A6A6A;
+    font-family: Alegreya Sans;
+}
+.security-form  label {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 6px;
+    font-family: Alegreya Sans;
+}
+.security-form  .pwd-input {
+    padding: 10px;
+    width: 98%;
+    border: 1px solid #D5D5D5;
+    background-color: #fff;
+    margin-bottom: 35px;
+    font-family: Alegreya Sans;
+}
+.security-form  button.u-pwd {
+    background: #1B243D;
+    color: #fff;
+    font-size: 18px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: Alegreya Sans;
+    font-weight: 500;
+}
+.portfolio .investor-image {
+    width: 46%;
+    margin: 0 auto;
+}
+.security-form h4 {
+    font-family: Alegreya Sans;
+    margin-bottom: 4px;
+}
+.security-form {
+    width: 490px;
+    box-shadow: 0px 1px 5px #00000024;
+    padding: 20px 10px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+
+  .notification-drop .item-noti {
+    padding: 2px;
+    font-size: 18px;
+    position: relative;
+  }
+  .notification-drop .item-noti .notification {
+    position: absolute;
+    top: 100%;
+    left: -190px;
+    right: 0;
+    z-index: 1;
+    width: 420px;
+    background-color: #F8F8F8;
+    border: 1px solid #D5D5D5;
+    border-radius: 0.25rem;
+    box-shadow: 1px 1px 6px 0px #9f9696;
+    display: none;
+  }
+  li.item.list-item:nth-child(odd) {
+    background-color: #fff;
+    /* border-top: 1px solid #DEDEDE; */
+    border-bottom: 1px solid #DEDEDE;
+}
+li.item.list-item:nth-child(even) {
+    background-color: #F8F8F8;
+    /* border-top: 1px solid #DEDEDE; */
+    border-bottom: 1px solid #DEDEDE;
+}
+.tobr .notification ul {
+    list-style: none;
+    padding-left: 0;
+}
+.topbar .notification-drop li.item {
+    padding: 14px;
+    font-size: 16px;
+    font-family: Alegreya Sans;
+    line-height: 28px;
+}
+.notification-drop .notify-header h5 {
+    text-align: center;
+    font-family: Alegreya Sans;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+.topbar .tobr .notification-drop a {
+    font-weight: 500;
+    font-size: 18px;
+}
+.notification-drop .item-noti span.circle {
+    background-color: #da0808;
+    padding: 4px;
+    border-radius: 50px;
+    font-size: 8px;
+    font-family: monospace;
+    position: relative;
+    bottom: 8px;
+    right: 3px;
+    font-weight: 800;
+}
+
+.chat-sec .receive {
+    margin-top: 30px;
+    max-width: 410px;
+    width: 410px;
+    background-color: #143C6D;
+    color: #fff;
+    padding: 12px 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.chat-sec .sent-chat {
+    margin-left: 20px;
+    background-color: #F5F7FB;
+    padding: 12px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 300px;
+}
+.chat-sec .sent {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 40px;
+}
+.chat-sec .send-msg {
+    padding: 30px 20px;
+}
+.receive p {
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.chat-content {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 75%;
+    margin: auto;
+    box-shadow: 0px 0px 7px #0000004d;
+}
+.chat-sec {
+    background-color: #F6F8FA;
+    padding: 4rem 0;
+}
+.chat-sec .chat-box h2 {
+    font-family: Alegreya Sans;
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 26px;
+}
+
+.user-chat::-webkit-scrollbar-thumb {
+    background: #dedcd6;
+    border-radius: 5px;
+}
+.user-chat::-webkit-scrollbar-track {
+    border-radius: 5px;
+}
+.user-chat::-webkit-scrollbar {
+    width: 4px;
+    height: 50px;
+}
+.chat-content .send-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.chat-sec .sent-chat p {
+    font-family: Alegreya Sans;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+.sent-chat .sent-time {
+    display: flex;
+    justify-content: end;
+}
+.sent .sent-time span {
+    font-size: 10px;
+}
+.send-msg button#chat-send {
+    color: #fff;
+    border: none;
+    background-color: #c18948;
+    padding: 10px 30px;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-family: Alegreya Sans;
+}
+.send-msg button.dropdown-toggle {
+    color: #000;
+    border: none;
+    background-color: #f5f7fb;
+    padding: 10px 30px;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-left: 10px;
+    font-family: Alegreya Sans;
+}
+
+.sentchat-icon .contact-details img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
 
 /* css added by abhishek */
 
@@ -1702,7 +2174,7 @@ p.brown-text {
     border-radius: 20px;
     margin-top: 50px;
     background: #1b243d;
-    padding: 50px 20px;
+    padding: 35px 35px;
     color: #fff;
 }
 
@@ -1727,14 +2199,8 @@ p.brown-text {
 .blue-box .form-tab {
     background: #EFEAE5;
     padding: 20px;
-    border-radius: 20px;
-    position: absolute;
-    top: -142px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-    width: 110%;
+    border-radius: 12px;
     font-family: 'Poppins';
-    left: -55px;
 }
 
 .blue-box form label {
@@ -1832,10 +2298,10 @@ p.brown-text {
     color: #C18948;
 }
 
-.contact-form .tab-content .tab-pane {
+/* .contact-form .tab-content .tab-pane {
     height: 252px;
     overflow: scroll;
-}
+} */
 
 .contact-form a.submit-btn {
     width: 140px !important;
@@ -1859,14 +2325,12 @@ p.brown-text {
 }
 
 .contact-form textarea {
-    background-color: transparent;
     border: 0;
-    border-bottom-width: 0px;
-    border-bottom-style: none;
-    border-bottom-color: currentcolor;
     background: transparent;
     border-bottom: 1px solid #c3c1c1;
     border-radius: 0;
+    width: 100%;
+    resize: none;
 }
 
 
@@ -2010,8 +2474,8 @@ input:focus {
 
 .why-jericho .bluebr-circle {
     background: #EFEAE5;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -2020,9 +2484,10 @@ input:focus {
 }
 
 .why-jericho .bluebr-circle h2 {
-    font-size: 35px;
+    font-size: 22px;
     margin: 0;
-    font-weight: bold;
+    font-weight: 500;
+    text-align: center;
 }
 
 .why-jericho .bluebr-txt h3 {
@@ -2125,7 +2590,7 @@ input:focus {
 
 .why-jericho .blue-bar {
     background: #C18948;
-    height: 180px;
+    height: 175px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -2445,6 +2910,7 @@ input:focus {
 
 .explore-assets .sub-heading {
     margin-bottom: 10px;
+    font-family: cambria;
 }
 
 .explore-assets .active,
@@ -2460,6 +2926,7 @@ input:focus {
     justify-content: center;
     align-items: center;
     gap: 5px;
+    font-family: cambria;
 }
 
 .explore-assets .inactive,
@@ -2475,6 +2942,7 @@ input:focus {
     justify-content: center;
     align-items: center;
     gap: 5px;
+    font-family: 'Cambria';
 }
 
 .explore-assets .active img,
@@ -3020,6 +3488,7 @@ input:focus {
 .kyc .pi-details h2 {
     color: #143C6D;
     font-weight: 600;
+    font-size: 35px;
 }
 
 .kyc .pi-details h4{

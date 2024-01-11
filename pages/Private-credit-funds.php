@@ -53,7 +53,9 @@
                 <div class="dist-fund">
                     <div class="row">
                         <div class="col-md-3 col-sm-12">
-                            <img src="../assets/image/Selecting-sourcing.svg">
+                            <div class="mt-4">
+                                <img src="../assets/image/Selecting-sourcing.svg">
+                            </div>
                         </div>
                         <div class="col-md-9 col-sm-12">
                             <p class="brown-text">What makes Private Credit an Attractive Investment?</p>

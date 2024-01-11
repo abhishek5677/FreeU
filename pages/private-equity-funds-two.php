@@ -1,18 +1,17 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "private-equity-funds" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="private-funds-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
+                        <h2>Private Equity Funds</h2>
                         <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h4>Exclusive Investment Opportunities in Thriving Private Sectors.</h4>
+                        <p>Private Equity Funds offer investors the opportunity to invest<br> in private companies across various stages of their lifecycle. <br>These funds seek to create value through active management <br>and strategic investments, providing a pathway to<br> potentially high returns for investors willing to commit<br> capital over longer time horizons.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -24,8 +23,8 @@
                         <div class="profile d-flex">
                             <img src="../assets/image/profile-banner.svg">
                             <div>
-                                <p>Expected IRR (p.a.): More than 12%</p>
-                                <p>Suggested Horizon: More than 4 Years</p>
+                                <p>Expected IRR (p.a.): More than 15%</p>
+                                <p>Suggested Horizon: More than 7 Years</p>
                                 <p>Minimum Investment: as per SEBI: ₹ 1,00,00,000</p>
                             </div>
                         </div>
@@ -42,26 +41,53 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What do Private Equity Funds do?</h3>
+                    <p>Private Equity Funds are investment vehicles that pool<br> capital to invest in private companies or buy out public<br> companies, taking them private. These investments <br>typically focus on acquiring significant or controlling <br>stakes, allowing for active management and strategic<br> decision-making to drive growth and profitability.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Private Equity Funds?</h3>
+                    <p>Investing in Private Equity Funds allows access to high<br>-potential private market investments, usually inaccessible<br> to the average investor. These funds offer potential for <br>higher returns compared to public markets, as they work to<br> improve the operations, strategy, and management of their<br> portfolio companies.</p>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
+                <div class="dist-fund mb-4">
+                    <img src="../assets/image/Asset-Class.svg">
                 </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="pers mb-0">
+                            <h2>$7.6tn</h2>
+                            <p>Forecast for private equity assets under management (AUM)  by December 2027.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pers mb-0">
+                            <h2>5.17ppts</h2>
+                            <p>Expected decline in the annualized performance of global buyout strategies for 2021 - 2027f, compared with the high growth period of 2018 - 2021.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pers mb-0">
+                            <h2>2.7%</h2>
+                            <p>Forecast decline in global private equity fundraising in 2023 following a 21.5% expected fall in 2022.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pers mb-0">
+                            <h2>19.2%</h2>
+                            <p>Median net IRR return of global private equity funds with a 2009- 2019 vintage.</p>
+                        </div>
+                    </div>
+                </div>
+                <p>Source : PrEQIn</p>
             </div>
         </div>
     </div>
-    <div class="container mt-5  mb-5">
-        <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+    <div class="container">
+        <div class="annual mb-5 mt-5">
+            <div class="align-items-center">
+                <img src="../assets/image/Public-Markets.svg">
+            </div>
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +101,20 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Potential for Higher Returns: </strong> Investment in private markets can yield higher returns compared to traditional public market investments.</li>
+                        <li><strong>Active Management: </strong> Hands-on approach in managing portfolio companies to unlock value and drive growth.</li>
+                        <li><strong>Access to Exclusive Opportunities:</strong> Exposure to private companies and unique investment opportunities not available in public markets.</li>
+                        <li><strong>Strategic Influence:</strong> Ability to influence company strategy and operations through significant ownership stakes.</li>
+                        <li><strong>Diversification:</strong> Adds a different dimension to an investment portfolio, diversifying away from the volatility of public markets.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>Capital Lock-Up:</strong> Investments in private equity typically require a long-term commitment, with capital locked up for several years.</li>
+                        <li><strong>Higher Risk:</strong> Private equity involves higher risks, including operational, market, and execution risks associated with transforming companies.</li>
+                        <li><strong>Complexity and Cost:</strong> Investments can be complex, often involving high management and performance fees.</li>
+                        <li><strong>Limited Liquidity:</strong> Private equity investments are not easily liquidated and lack the liquidity of public market investments.</li>
+                        <li><strong>Dependency on Management Expertise:</strong> Success heavily relies on the fund manager's ability to effectively manage and transform portfolio companies.</li>
                     </ul>
                 </div>
             </div> 

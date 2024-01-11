@@ -1,18 +1,17 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "long-only-equity-funds" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="Long-Equity-Funds-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
-                        <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h2>Long-Only Equity Funds</h2>
+                        <button>Category III AIF</button>
+                        <h4>Embracing Traditional Growth Through Equity Investments</h4>
+                        <p>Long-Only Equity Funds represent a classic investment <br> strategy, focusing exclusively on buying and holding stocks.<br> These funds offer investors the opportunity to benefit from<br> the growth potential of equities in a straightforward and<br> transparent manner, making them a fundamental<br> component of many investment portfolios.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -42,26 +41,37 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What do Long-Only Equity Funds do?</h3>
+                    <p>Long-Only Equity Funds are investment vehicles that <br> invest in stocks with the expectation of price appreciation.<br> Unlike hedge funds, they do not engage in short-selling or<br> use complex financial derivatives. These funds aim to<br> generate returns through careful stock selection based on<br> fundamental analysis, market trends, and economic<br> forecasts.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Long-Only Equity Funds?</h3>
+                    <p>Investing in Long-Only Equity Funds is ideal for those seeking<br> exposure to stock markets with a traditional investment<br> approach. These funds benefit from the market’s long-term <br>growth trends, providing potential for substantial returns<br> over time. They are suitable for investors with a longer-term<br> investment horizon and a tolerance for stock market volatility.</p>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
+                <div>
+                    <img class="w-100" src="../assets/image/Sell-Wor.svg">
+                    <p class="disclaimer"><strong>“Nothing goes in one direction forever... Just about everything is cyclical, Howard Marks</strong></p>
+                </div>
+                <div>
+                    <img class="w-100" src="../assets/image/GDP-Growth.svg">
+                    <p class="disclaimer"><strong>India’s GDP set to sustain 6% plus growth, and outpace most leading economies. Source: RBI and ICRA</strong></p>
                 </div>
             </div>
         </div>
     </div>
     <div class="container mt-5  mb-5">
         <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+            <div class="row">
+                <div class="col-md-7">
+                <h6 class="mb-2">India's benchmark gauge - BSE's market capitalisation or m-cap grew from Rs 3.2 lakh crore to Rs 343.5 lakh crore in 2023 (see chart). If we concise it to five years, BSE's m-cap has more than doubled from Rs 154.6 lakh crore, according to data from Geojit Insights.</h6>
+                    <img src="../assets/image/BSE-Market.svg">
+                </div>
+                <div class="col-md-5">
+                    <img src="../assets/image/IndiaEconomy.svg">
+                </div>
+            </div>
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +85,20 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Capital Appreciation Potential: </strong> Strong potential for long-term growth in line with equity market performance.</li>
+                        <li><strong>Simplicity and Transparency: </strong> Straightforward investment approach with easy-to-understand strategies.</li>
+                        <li><strong>Diversification: </strong> Offers diversification across various sectors and geographies within the equity market.</li>
+                        <li><strong>Accessibility: </strong> Wide range of funds available, catering to different risk profiles and investment goals.</li>
+                        <li><strong>Dividend Income:</strong> Potential for income through dividends, in addition to capital appreciation.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>Market Volatility:</strong> Direct exposure to stock market fluctuations and economic cycles.</li>
+                        <li><strong>Concentration Risk:</strong> Risk of loss due to concentration in specific sectors or stocks.</li>
+                        <li><strong>Underperformance Risk:</strong> Possibility of underperforming the market or relevant benchmarks.</li>
+                        <li><strong>Long-Term Commitment:</strong>  Requires a longer investment horizon to realize potential gains.</li>
+                        <li><strong>Managerial Risk: </strong> Dependent on the fund manager’s ability to select and manage the right stocks.</li>
                     </ul>
                 </div>
             </div> 

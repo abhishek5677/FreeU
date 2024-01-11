@@ -1,18 +1,16 @@
-<?php $currentPage = "pipe-funds" ?>
+<?php $currentPage = "commercial-real-estate" ?>
 <?php include '../component/header_link.php'; ?>
 <?php include '../component/header.php'; ?>
 
 <div>
-    <div class="pipe-funds">
+    <div class="commercial-estate-banner">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="banner-text-contain">
-                        <h2>PIPE Funds</h2>
-                        <h4>Private Investment in Public Equity</h4>
-                        <button>Category I AIF</button>
-                        <h4>PIPE Funds - Your Key to Exclusive Public Equity Deals</h4>
-                        <p>PIPE funds are privately sourced funds from investors, usually <br> reserved for public equity investments – which refers to the practice<br> of private investors means buying shares of publicly traded stock at<br> a price below the current price available to the public. Such sales<br> are not executed through the stock exchanges. </p>
+                        <h2>Commercial Real Estate</h2>
+                        <h4>Elevating Investments with Prime Commercial Spaces</h4>
+                        <p>Commercial Real Estate encompasses properties used for<br> business purposes, including office buildings, retail spaces, and<br> multifunctional complexes. This asset class offers investors the<br> opportunity to tap into the economic pulse of cities and regions,<br> providing potential for both stable income and capital<br> appreciation.</p>
                         <div class="banner-btn mt-4">
                             <a href="#">View Investments</a>
                         </div>
@@ -24,9 +22,8 @@
                         <div class="profile d-flex">
                             <img src="../assets/image/profile-banner.svg">
                             <div>
-                                <p>Expected IRR (p.a.): More than 12%</p>
-                                <p>Suggested Horizon: More than 4 Years</p>
-                                <p>Minimum Investment: as per SEBI: ₹ 1,00,00,000</p>
+                                <p>Expected IRR (p.a.): More than 8%</p>
+                                <p>Suggested Horizon: More than 5 Years</p>
                             </div>
                         </div>
                      </div>
@@ -42,26 +39,115 @@
             <div class="col-md-6 col-ms-12">
                 <h2 class="invest-fund">KYI: Know Your Investment</h2>
                 <div>
-                    <h3 class="mb-3">What do PIPE Funds do?</h3>
-                    <p>PIPE Funds are investment vehicles that focus on<br> purchasing equity or debt of publicly listed companies<br> through private placements. These investments are<br> typically made in the form of common or preferred<br> shares, convertible securities, or debt, and are often<br> utilized by companies seeking capital for growth, <br>restructuring, or other strategic initiatives.</p>
+                    <h3 class="mb-3">What’s unique about commercial real estate?</h3>
+                    <p>Commercial Real Estate includes a variety of property types<br> designed for business activities, such as offices, shopping<br> centers, service establishments, and mixed-use buildings.<br> These properties are typically leased to businesses and offer a<br> way to invest in the commercial activity of a region.</p>
                 </div>
                 <div>
-                    <h3 class="mb-3">Why Invest in PIPE Funds?</h3>
-                    <p>Investing in PIPE Funds allows investors to capitalize on the<br> potential undervaluation of public companies, with the added <br>benefit of structured deal terms that may offer advantages<br> over traditional public market investments. PIPE investments<br> can also provide quicker access to capital for the issuing<br> company, making it a mutually beneficial arrangement.</p>
+                    <h3 class="mb-3">Why Invest in Commercial Real Estate?</h3>
+                    <p>Influenced by economic growth, urban development, and consumer<br> trends, the commercial real estate market can offer insights<br> into the business climate. Current trends include the rise of <br>remote work impacting office spaces, and the evolution of <br>retail with the growth of e-commerce.</p>
+                </div>
+                <div>
+                    <h3 class="mb-3">Why Invest in Commercial Real Estate?</h3>
+                    <ul>
+                        <li>Valuation Techniques: Valuations in commercial real estate consider factors such as location, lease terms, tenant creditworthiness, and market conditions. Common valuation methods include the income approach and comparable sales approach.</li>
+                        <li>Ownership Structures: Investment in commercial real estate can be direct through property acquisition or indirect through Real Estate Investment Trusts (REITs), funds, or syndications.</li>
+                    </ul>
                 </div>
             </div>
             <div class="col-md-6 col-ms-12">
-                <div class="pip-fund text-center">
-                    <img src="../assets/image/Mangalyaan.svg">
+                <div>
+                    <img class="w-100" src="../assets/image/Commercial-real.svg">
                 </div>
+                <div class="fs-four">
+                    <ul>
+                        <li>In India, the continuous growth in income levels and enduring consumer confidence are expected to boost domestic demand. This trend is supported by the manufacturing and services PMI consistently remaining above the 50-mark in Q4 2022.</li>
+                        <li>The Indian market witnessed a significant surge in Equity Investments in Commercial Real Estate (CRE), reaching a peak of USD 6 billion in 2022, with indications of further increase in deal flow throughout 2023.</li>
+                        <li>Dominating the sector, office spaces and warehousing account for 69% of the total real estate investments in India, highlighting their significant role in the market.</li>
+                    </ul>
+                    <p class="brown-text"><strong>Global Outlook</strong></p>
+                    <ul class="mb-0">
+                        <li class="brown-text">The global commercial real estate market is anticipated to attain a valuation of approximately $115 trillion in 2023.</li>
+                        <li class="brown-text">Over the period from 2023 to 2028, the market is predicted to experience a Compound Annual Growth Rate (CAGR) of about 3.03%, culminating in a projected market size of around $133.5 trillion by 2028.</li>
+                        <li class="brown-text">When comparing internationally, it is forecasted that the United States will lead in real estate value creation, with an estimated market size of $24.67 trillion in 2023.</li>
+                    </ul>
+                    <p  class="brown-text">Source: Statista</p>
+                </div>
+                
             </div>
         </div>
     </div>
-    <div class="container mt-5  mb-5">
-        <div class="annual">
-            <h3 class="text-center mb-4">Private equity in India has come a long way and is set to further consolidate gains</h3>
-            <img src="../assets/image/Pipe-Funds-table.svg">
-            <h5 class="text-center mt-3">Source: Bain Report India Private Equity 2023</h5>
+    <div class="container mt-4">
+        <div class="amount-tabs">
+            <div class="amount-tab">
+                <table>
+                    <tr>
+                        <th>Aspect</th>
+                        <th>Residental Real Estate</th>
+                        <th>Commercial Real Estate</th>
+                        <th>Industrial Real Estate</th>
+                    </tr>
+                    <tr>
+                        <td>Primary Use</td>
+                        <td>Housing and Living spaces (homes,apartments).</td>
+                        <td>Business operations(offices,retail stores, hotels).</td>
+                        <td>manufacturing, warehousing, and distribution centers.</td>
+                    </tr>
+                    <tr>
+                        <td>Typical Tenants</td>
+                        <td>individuals or families.</td>
+                        <td>Businesses, retailers, service providers.</td>
+                        <td>manufacturing, logistics companies.</td>
+                    </tr>
+                    <tr>
+                        <td>Lease Terms</td>
+                        <td>Shorter-term (usually 1 year).</td>
+                        <td>Long-term(5-10 years or more).</td>
+                        <td>Varies, often long-term.</td>
+                    </tr>
+                    <tr>
+                        <td>Consideration Timeline</td>
+                        <td>Shorter timelines, smaller terms.</td>
+                        <td>Longer timelines, larger budgets, larger teams.</td>
+                        <td>Varies, often longer due to technical Complexity.</td>
+                    </tr>
+                    <tr>
+                        <td>Investment and Returns</td>
+                        <td>Lower entry cost, strady rentail income.</td>
+                        <td>Higher investment, potential for higher returns.</td>
+                        <td>Varies widely, often requires significant investment.</td>
+                    </tr>
+                    <tr>
+                        <td>Maintenance and Management</td>
+                        <td>Regular maintenance, direct tenant interaction.</td>
+                        <td>Professional management, higher maintenance standards.</td>
+                        <td>Specialized maintenance, less frequent tenant interaction.</td>
+                    </tr>
+                    <tr>
+                        <td>Location Sensitivity</td>
+                        <td>Highly sensitivity to local amenities, schools, etc.</td>
+                        <td>Dependent on business activity, customer access.</td>
+                        <td>Access to transportation, less sensitivity to aesthetics.</td>
+                    </tr>
+                    <tr>
+                        <td>Regulatory and Zoning</td>
+                        <td>Subject to local residential zoning and regulations.</td>
+                        <td>Commercial zoning, ADA compliance, more complex regulations.</td>
+                        <td>Industrial zoning, environmental and safety regulations.</td>
+                    </tr>
+                    <tr>
+                        <td>Regulations and Codes</td>
+                        <td>Local building codes for safety and sustainability.</td>
+                        <td>Stringent building code,emphasis on safety and accessibility.</td>
+                        <td>Most stringent standards for safety and technical requirements.</td>
+                    </tr>
+                    <tr>
+                        <td>Project Examples</td>
+                        <td>Single-family homes, condominiums, townhouses.</td>
+                        <td>office buildings, shopping mails, hotels.</td>
+                        <td>Factories, power plants, warehouses.</td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </div>
     <div class="banifit-tabs mt-4">
@@ -75,20 +161,18 @@
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane benefits fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <ul>
-                        <li><strong>Potential for Above-Market Returns: </strong> Opportunity to invest in public companies at favorable terms, possibly leading to higher returns.</li>
-                        <li><strong>Strategic Investments: </strong>Enables strategic investments in companies with potential for growth or turnaround.</li>
-                        <li><strong>Enhanced Liquidity: </strong> Combines the benefits of private investing with the liquidity of public markets.</li>
-                        <li><strong>Diversification: </strong> Adds a unique element to an investment portfolio, different from traditional public equity or private equity investments.</li>
-                        <li><strong>Support for Company Growth:</strong> Provides vital capital to public companies for growth or restructuring.</li>
+                        <li><strong>Regular Income Streams: </strong>  Potential for consistent rental income from business tenants.</li>
+                        <li><strong>Capital Appreciation: </strong> Opportunity for property value growth in prime locations.</li>
+                        <li><strong>Economic Resilience:</strong> Well-positioned commercial properties can remain in demand even during economic shifts.</li>
+                        <li><strong>Portfolio Diversification:</strong> Adds a different dimension to investment portfolios, distinct from stocks and bonds.</li>
                     </ul>
                 </div>
                 <div class="tab-pane risks fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <ul>
-                        <li><strong>Market Risk: </strong> Exposure to the volatility of the public markets.</li>
-                        <li><strong>Liquidity Constraints:</strong> While more liquid than private equity, some PIPE investments may have lock-up periods or other liquidity constraints.</li>
-                        <li><strong>Regulatory and Compliance Risks:</strong> Investments are subject to regulatory considerations, including securities laws and disclosure requirements.</li>
-                        <li><strong>Dependence on Company Performance:</strong>  Returns are closely tied to the performance and strategic decisions of the target company.</li>
-                        <li><strong>Complexity of Deal Structuring: </strong> PIPE transactions can be complex, requiring thorough due diligence and understanding of the terms.</li>
+                        <li><strong>Market Fluctuations:</strong> Susceptible to economic cycles affecting business growth and tenant stability.</li>
+                        <li><strong>Property Management Requirements:</strong> Active management needed to maintain occupancy and property condition.</li>
+                        <li><strong>Lease Vacancy Risks:</strong> Potential income loss due to tenant turnover or market downturns.</li>
+                        <li><strong>Regulatory Changes:</strong> Sensitivity to zoning laws, tax policies, and other regulatory factors.</li>
                     </ul>
                 </div>
             </div> 
